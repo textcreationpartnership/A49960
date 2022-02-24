@@ -1,0 +1,2315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ecclesia Gemens, or, Two discourses on the mournful state of the Church, with a prospect of her dawning glory exhibited in a view of two Scriptures, representing her as a myrtle-grove in a deep bottom, and as a knot of lillies among thorns.</title>
+            <author>Lee, Samuel, 1625-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49960</idno>
+            <idno type="STC">Wing L894</idno>
+            <idno type="STC">ESTC R2097</idno>
+            <idno type="EEBO-CITATION">12307097</idno>
+            <idno type="OCLC">ocm 12307097</idno>
+            <idno type="VID">59291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 639:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ecclesia Gemens, or, Two discourses on the mournful state of the Church, with a prospect of her dawning glory exhibited in a view of two Scriptures, representing her as a myrtle-grove in a deep bottom, and as a knot of lillies among thorns.</title>
+                  <author>Lee, Samuel, 1625-1691.</author>
+               </titleStmt>
+               <extent>[4], 92 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hancock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Dedication signed: S.L. [i.e. Samuel Lee].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Zechariah I, 8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Church --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59291:1"/>
+            <pb facs="tcp:59291:1" rendition="simple:additions"/>
+            <p>
+               <hi>ECCLESIA GEMENS:</hi> OR, Two Diſcourſes On the mournful
+State of the Church, with a Pro<g ref="char:EOLhyphen"/>ſpect of her Dawn<g ref="char:EOLhyphen"/>ing Glory.</p>
+            <p>Exhibited in a View of two Scriptures, repre<g ref="char:EOLhyphen"/>ſenting her as a
+<hi>Myrtle-Grove</hi> in a deep Bot<g ref="char:EOLhyphen"/>tom, and as a knot of Lillies among
+Thorns.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 68.13.</hi>
+               </bibl> 
+               <p>Though ye have lien among the Pots, yet ſhall ye be as the Wings
+of a Dove covered with Silver, and her Feathers with yellow Gold.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Hancock,</hi> at the three
+Bibles in <hi>Popes-head</hi> Alley in <hi>Cornhill.</hi> 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59291:2"/>
+            <pb facs="tcp:59291:2"/>
+            <p>To the Holy Church of Chriſt lately walking in Communion with
+Mr. <hi>J.C.</hi> and now with D.<hi>J.O.</hi> before whom theſe exerciſes
+were handled, and to whom they are now humbly preſented by</p>
+            <closer>
+               <signed>Theirs in the Fellowſhip of the Goſpel. <hi>S.
+L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:59291:3"/>
+            <pb n="1" facs="tcp:59291:3"/>
+            <head>
+               <note place="margin">1673. <hi>April.</hi> 6.</note> THE VISION
+OF THE <hi>MYRTLEGROVE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Zach. 1.8.</hi>
+                  </bibl> 
+                  <p>I ſaw by night, and behold a man ri<g ref="char:EOLhyphen"/>ding upon a red Horſe,
+and he ſtood among the Myrtle-trees that were in the bottom, and behind him
+there were red Horſes, ſpeckled, and white.</p>
+               </q>
+            </epigraph>
+            <p>THIS is a Comfortable Viſion to the Church in a low and dark
+conditi<g ref="char:EOLhyphen"/>on: For, upon her Hu<g ref="char:EOLhyphen"/>miliation by the Prophets Sermon of Repentance,
+<hi>v.</hi> 6. The Captain of the Lords Hoſts appears in order to
+deliverance.</p>
+            <p>The Captivity was in part return<g ref="char:EOLhyphen"/>ed, but the Temple, whoſe
+Foun<g ref="char:EOLhyphen"/>dation <pb n="2" facs="tcp:59291:4"/>though laid, yet the Progreſs of its building
+interrupted, lay ſtill in a ruinous ſtate, and the City it ſelf unwalled
+and in a mournful plight, 
+<note place="margin">
+                  <hi>Pſ.</hi> 137.2.</note> and many of the
+people not hitherto come forth of <hi>Babylon:</hi> Their Harps hung yet upon
+the wil<g ref="char:EOLhyphen"/>lows; but now they are to be taken down to be imployed in Songs of
+<hi>Zion,</hi> with Myrtle Crowns of Feſtival Joy upon their Heads.</p>
+            <p>It ſuites with our eſtate ſince the return of our Fathers
+from Spiritual <hi>Babylon.</hi> For as yet the pure Temple-worſhip mourns in
+the duſt, and the City of New <hi>Jeruſalem</hi> lies in rub<g ref="char:EOLhyphen"/>biſh.</p>
+            <p>
+               <hi>In this Prophetical Viſion obſerve:</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Time, <hi>v.</hi> 7. The ſecond
+year of <hi>Darius Hyſtaſpes,</hi> 519 years before the Birth of our Lord,
+on the 24th Day of the 11th Moneth <hi>Sebat,</hi> anſwering to part of
+<hi>January,</hi> and more particularly, the Prophet ſaw this Viſion in the
+Night.</p>
+            <p>By Night.] 1. To ſhew the dark<g ref="char:EOLhyphen"/>neſs and difficulty of the
+Viſion. 2. That it was a time of affliction to the Church. 3. That Chriſt
+the Cap<g ref="char:EOLhyphen"/>tain <pb n="3" facs="tcp:59291:4"/>of the Church appeared but darkly to the Fathers
+of old.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Place of the Viſion, in a Bottom,
+<hi>Bamezulah, in profundo,</hi> which the <hi>Chald.</hi> Paraphraſe turns
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Babylon,</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 51.13.</note> which lay in a low
+Champion plain by the great Ri<g ref="char:EOLhyphen"/>ver <hi>Euphrates</hi> in the Land of
+<hi>Chal<g ref="char:EOLhyphen"/>dea,</hi> and was noted, if I remember right, for fertility in this
+fragrant Shrub of Myrtle. 
+<note place="margin">
+                  <hi>Com. in</hi> Plin. <hi>l.</hi> 15.
+<hi>c.</hi> 29.</note> 
+               <hi>Edeſſa</hi> in <hi>Meſopo<g ref="char:EOLhyphen"/>tamia</hi> had its
+name from Myrtles; and however, <hi>Parthia</hi> was famous for it, which was a
+neighbouring Province.</p>
+            <p n="3">3dly. The Objects preſented in the Viſion which are
+three.</p>
+            <p>A Captain upon a red Horſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Equitans,</hi> or <hi>aſcendens,</hi> about to get up; as the LXX.
+expreſſe it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ready to aſcend upon his Horſe, who
+is no other than that ſame Captain which appeared to <hi>Jo<g ref="char:EOLhyphen"/>ſhuah</hi> when
+entring upon his Wars againſt the <hi>Canaanites.</hi> 
+               <note place="margin">
+                  <hi>Joſ.</hi> 5.14.</note> I ſhall not
+determine with <hi>Alapide,</hi> that the <hi>[Sus Adam,]</hi> the red horſe
+notes his Humanity; I dare not be ſo bold, but rather, as a Captain get<g ref="char:EOLhyphen"/>ting 
+<pb n="4" facs="tcp:59291:5"/>up on his horſe of bloud, in or<g ref="char:EOLhyphen"/>der to the ſlaughter of
+his Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> A Grove of Myrtle Trees in the midſt whereof
+ſtood this valiant Captain of the Lords Hoſts, ready to get up, or being
+aſcended, makes a ſtand till the time of his going forth againſt
+<hi>Babylon:</hi> For though <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> were taken by <hi>Cyrus</hi>
+before this Viſion, yet there paſſed 4 years af<g ref="char:EOLhyphen"/>ter this Exhibition to
+the Prophet, even juſt at the finiſhing of the Tem<g ref="char:EOLhyphen"/>ple in the 6th. 
+<note place="margin">Herodot. <hi>l.</hi> 3. <hi>p.</hi> 323.
+Uſſer. <hi>an<g ref="char:EOLhyphen"/>nal.</hi>
+               </note> of <hi>Darius,</hi> when that Golden City
+was wofully ſackt, the Walls pull'd down, and the Gates demoliſh'd, and
+3000 of her moſt noble Citizens ſtaked or crucified, and after a while
+<hi>Babel</hi> was totally laid in ruines by <hi>Xerxes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Behind this glorious Captain were placed in
+Martial Array, 3 ſorts of horſes, or 3 Troops or Regiments of various
+coloured horſes, Red, Speckled, and White.</p>
+            <p>By the Myrtle Grove is meant the Church of God; by the bottom,
+<hi>Babylon:</hi> By the Captain, Jeſus Chriſt the Son of God: By the Red 
+<pb n="5" facs="tcp:59291:5"/>Horſe, his deſign of War againſt <hi>Ba<g ref="char:EOLhyphen"/>bylon:</hi> The
+3 ſorts of Horſes behind him, firſt Red, noting bloudy wars againſt the
+Churches Enemies. 2d. The ſpeckled, ſignifying various Providences;
+ſometimes the Church victorious, and othertimes in an af<g ref="char:EOLhyphen"/>flicted ſtate
+under the <hi>Antiochian</hi> Princes. 3d. White Horſes, repre<g ref="char:EOLhyphen"/>ſenting the
+Church in the end com<g ref="char:EOLhyphen"/>pleatly victorious and triumphant: All the Churches
+troubles ſhall end in victory; and theſe Horſes that at<g ref="char:EOLhyphen"/>tend upon
+Chriſt, go forth from a<g ref="char:EOLhyphen"/>mong the Myrtle Trees, that is, the Angels who encamp
+about tho Church, are ſometimes ſent a<g ref="char:EOLhyphen"/>broad upon expeditions againſt her
+Enemies, arming and influencing of Nations one againſt another, to ſub<g ref="char:EOLhyphen"/>due
+thoſe who have impugned the Church, 
+<note place="margin">
+                  <hi>Iſ.</hi> 51.11.</note> and to execute the
+venge<g ref="char:EOLhyphen"/>ance of the Temple.</p>
+            <p>This Viſion is given by God to the Prophet on purpoſe to
+encou<g ref="char:EOLhyphen"/>rage his People in going on with Temple-work, having formed the heart of
+<hi>Darius,</hi> to give forth ano<g ref="char:EOLhyphen"/>ther Edict beſides that of <hi>Cyrus,</hi>
+to <pb n="6" facs="tcp:59291:6"/>finiſh the ſtately ſtructure of his Temple. Having
+thus touch'd up<g ref="char:EOLhyphen"/>on the Scope of the Prophecy, let's deſcend to ſome
+Inſtructions from it. There be 3 Spring-heads from whence the ſtreams of
+the obſervati<g ref="char:EOLhyphen"/>ons may flow full pleaſantly.</p>
+            <p n="1">1. From the Time and Place.</p>
+            <p n="2">2. The Myrtle Trees.</p>
+            <p n="3">3. The Captain and his Forces.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Time: It was by Night, an obſcure
+and dark Seaſon. The Place was a deep Valley or Bottom; and both are fit
+Emblems of the troubles and afflictions of the Church.</p>
+            <p>The Church of God after begun deliverances, 
+<note place="margin">
+                  <hi>Obſ.</hi> 1.</note> may continue for a
+ſeaſon under dark, doubtful, and afflictive Providences. <hi>Iſrael,</hi>
+af<g ref="char:EOLhyphen"/>ter they were come out of <hi>Egypt,</hi> wandred 40 years in a howling
+Wil<g ref="char:EOLhyphen"/>derneſs, and were exerciſed with 7 years Wars in <hi>Canaan,</hi>
+before they were ſettled under Vines and Fig-trees in that Land flowing with
+Milk and Honey.</p>
+            <p>Again, When <hi>Judah</hi> came out of <hi>Babylon,</hi> from the
+firſt of <hi>Cyrus,</hi> till <pb n="7" facs="tcp:59291:6"/>
+               <hi>Nehemiahs</hi> coming
+from <hi>Shuſham</hi> to build <hi>Jeruſalems</hi> Walls in the 20th.<note place="margin">536. 454. 82.</note> year of <hi>Artaxerxes Longimanus,</hi> 
+               <note place="margin">Uſſer. an<g ref="char:EOLhyphen"/>nals.</note> there intervened
+fourſcore and two years: And in the later days, after the 1290 years are
+fully expired, there muſt be a flux of 45 years from the firſt deliverance
+till the compleat ſtate of the bleſſed times of the Church. 
+<note place="margin">
+                  <hi>Dan.</hi> 12.11, 12.</note> I need not
+inſert any other particular inſtances, 'tis the wiſe method of Divine
+Providence,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To hew down and cut off thoſe ſtubborn
+Spirits which hanker after <hi>Egypt,</hi> and long for the Fleſhpots, the
+Garlick and Onions of their old ſtate of bondage. They ſmell rank and
+unſavoury before God, that like the old murmuring <hi>Iſraelites,</hi> dare
+to call <hi>Egypt</hi> by the Title of the Land of <hi>Canaan;</hi> crying to
+<hi>Moſes, 
+<note place="margin">
+                     <hi>Numb.</hi> 16.13.</note> Thou haſt brought
+us out of a Land flowing with Milk and Honey, to kill us in the
+Wilderneſs.</hi>
+            </p>
+            <p>Gradually to prepare his faithful people, who like <hi>Caleb</hi>
+and <hi>Joſhua</hi> follow the Lord fully, for thoſe bleſſed and
+glorious Enjoyments: As the horrid Rocks and Mountains <pb n="8" facs="tcp:59291:7"/>of
+<hi>Pindus</hi> ſet off the pleaſant verdure of the <hi>Theſſalian
+Tempe:</hi> So did the <hi>Arabian</hi> Deſarts, the parching Droughts, the
+fiery Serpents, and the Swords of <hi>Baſhan</hi> ſuperadd a varniſhing
+luſtre to <hi>Canaan</hi> the glo<g ref="char:EOLhyphen"/>ry of all Lands. 
+<note place="margin">
+                  <hi>Ezek,</hi> 20.6, 15.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> To manage the ruine and extir<g ref="char:EOLhyphen"/>pation of the
+Churches Enemies by degrees; 
+<note place="margin">
+                  <hi>Deut.</hi> 7.22.</note> not all at once,
+leſt the beaſts of the field increaſe too nu<g ref="char:EOLhyphen"/>merous. To give his Enemies
+ſome time and ſpace of repentance, and to leave them without Apology; and
+that the Churches hands be not too full of labour and travel. But firſt
+<hi>Amaleck</hi> muſt have a blow from <hi>Joſhua,</hi> 
+               <note place="margin">
+                  <hi>Exod.</hi> 17.10.</note> and taſte of the
+ſharpneſs of his glittering Sword; then the King of <hi>Arad</hi> (a City 4
+miles ſouth of <hi>Malliattha</hi> or <hi>Amalek</hi> according to
+<hi>Jerom</hi>) muſt bow down their neck under his victorious foot; 
+<note place="margin">
+                  <hi>Numb.</hi> 21.1.</note> then the Pools of
+<hi>Heſhbon</hi> muſt be dried up, and the Iron Bed of <hi>Og</hi> muſt
+be drawn in triumph; and laſtly, <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dian</hi> with her 5 Princes, and <hi>Balaam</hi> with his Inchanted
+Altars muſt flame in ſacri<g ref="char:EOLhyphen"/>fice to Divine Vengeance, before 
+<pb n="9" facs="tcp:59291:7"/>they paſs over <hi>Jordan</hi> to conquer and enjoy the
+Land of Promiſe. 
+<note place="margin">
+                  <hi>Obſ.</hi> 2.</note>
+            </p>
+            <p>In the next place we may obſerve, that though the Church be
+overſha<g ref="char:EOLhyphen"/>dowed with a dark night, and ſit ſi<g ref="char:EOLhyphen"/>lently upon the ground in a
+deep bottom, as repreſented on the reverſe of <hi>Veſpaſian's
+Coine</hi> weeping under a Palm-Tree; yet here ſhe is brought to erect her
+countenance with a ſmil<g ref="char:EOLhyphen"/>ing and joyful aſpect into the Myr<g ref="char:EOLhyphen"/>tle Grove, and
+Chriſt her Lord and Husband preſent with her: All dark, but the bright Face
+of Chriſt illuſtra<g ref="char:EOLhyphen"/>ting the Face of the Prophet with a clear Viſion, and
+the Face of the Spouſe with ſome radiations of joy. Though the State of the
+Church be dark, yet the Viſion is bright; Gods work goes on though it be by
+night. Though the Church might not as yet ſee the Prophet, yet ſhe enjoys
+her Captain; and though his help be in<g ref="char:EOLhyphen"/>viſible, yet 'tis certain. Though the
+Church think of little but conti<g ref="char:EOLhyphen"/>nuing darkneſs, and a long and ſtor<g ref="char:EOLhyphen"/>my
+time of trouble, like a <hi>January</hi> night, in which Moneth this Viſion 
+<pb n="10" facs="tcp:59291:8"/>appeared, yet morning will come: <hi>Phoſphorus,</hi> the
+Morning Star will ſhine, and the Sun will ſhortly gild the Eaſtern
+Mountains with his glo<g ref="char:EOLhyphen"/>rious Beams. The <hi>Babylonian</hi> Ene<g ref="char:EOLhyphen"/>mies think they
+ſhall always detain the captive Church in their Dunge<g ref="char:EOLhyphen"/>on bottoms, but the
+ſhining Ruler of the Day will not ſail to appear in that his glorious
+Epiphany, 
+<note place="margin">
+                  <hi>Pſa.</hi> 104.20.</note> and chaſe all
+the wild Beaſts of the Night into diſmal holes and caverns. This Vi<g ref="char:EOLhyphen"/>ſion
+comes by night, when the Church little dreams of deliverance. and leſs
+diſcerns the approach of her Heaven-born Captain. Watchman, what, 
+<note place="margin">
+                  <hi>Iſa.</hi> 21.12, 9,</note> of the night?
+Behold here cometh a Chariot of Men, a couple of Horſemen: <hi>Babylon</hi>
+is fallen, is fallen; <milestone type="tcpmilestone" unit="unspecified" n="2"/> go up, O <hi>Elam,</hi> beſiege, O
+<hi>Media.</hi> Though the Church lye pro<g ref="char:EOLhyphen"/>ſtrate in a deep Valley. yet 'tis a
+Valley of Viſion: Though ſhe cry out in the Valley of <hi>Achor,</hi> 
+               <note place="margin">
+                  <hi>Hoſ.</hi> 2.15.</note> yet God will give
+her both Vineyards and Myrtle Groves from thence. The Church ſhall be both
+fruitful and fragrant in the midſt of couchant Vallies at the foot of the
+proud and <pb n="11" facs="tcp:59291:8"/>lofty Mountains of the World. The Church never
+ſighs out her ſorrows in ſo dark a night, but a new Moon may appear with
+a little light and ſome brightning Viſions of mercy. Some Prophets to
+comfort, ſome Princes hearts awakening towards her reſcue, who, like
+<hi>Darius,</hi> ſhall ſhortly put foot in ſtirrup againſt her bloudy
+enemies. Neither is there any particular Member of the Church in ſo dark and
+bluſtring a Tempeſt, 
+<note place="margin">
+                  <hi>Job</hi> 35.10. <hi>Pſ.</hi>
+139.12.</note> but may find ſome Songs in the night. He to whom the night
+ſhineth as the day by the luſtre of his omniſcient eye, beholds his
+dar<g ref="char:EOLhyphen"/>ling Spouſe in the profoundeſt bot<g ref="char:EOLhyphen"/>toms of tribulation, and ſends his
+Prophets with Glorious Viſions to erect and illuſtrate their gloomy and
+dejected Spirits.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The 2d. part of this verſe contains the
+Viſion of the Myrtle Grove in a deep bottom: Hence</p>
+            <p>The Church of God in her loweſt eſtate and darkeſt time is
+highly va<g ref="char:EOLhyphen"/>lued of God: <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>
+               </label> It is his Pleaſant Plant, his
+Garden, his Paradiſe, his Myrtle Grove, more delicious than 
+<pb n="12" facs="tcp:59291:9"/>thoſe admired pendulous Gardens of <hi>Semiramis</hi> in
+<hi>Babylon.</hi> He planted theſe fragrant Shrubs: This ſenſible Plant,
+dedicated to his Love, he waters and watches it every moment. He always beholds
+it and beautifies it with his preſence and walk: He ſhews it to his
+Prophets by Divine Moon-light, and ſends them to tell his Church and People,
+how great<g ref="char:EOLhyphen"/>ly he eſteems and values it. Though the night be cloudy and
+ſtormy, and the Church hardly to be kenned by carnal eyes were they awake;
+yet he whoſe eyes are like a flame of fire, 
+<note place="margin">
+                  <hi>Rev.</hi> 1.14.</note> 
+               <note place="margin">
+                  <hi>Luke</hi> 2.9.</note> can make a ſudden
+light to ſhine about his Shepherds and the Flocks of his Church by night, and
+turn their Fears into exquiſite Joys, and teach them to tune their rural
+Pipes in conſort with the Heavenly Hoſt praiſing God, and ſo open the
+eyes of theſe Keepers of the Vines and Myrtles, that they ſhall behold the
+Captain of their Salvation in the midſt of the Grove, with 3 Troops of Angels
+for their protection and comfort; not a Tree but a Horſe<g ref="char:EOLhyphen"/>man aſſign'd it
+like the Palms in the <pb n="13" facs="tcp:59291:9"/>Temple always interwoven with
+Cherubims.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> But why is the Church compared to a Myrtle
+Grove? Not to be o<g ref="char:EOLhyphen"/>ver curious and nice; I ſhall only Spiritualize a few
+Notions about it.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Myrtle is but a mean, low ſhrub
+to note the humility of the Church and its Members: They have no aſpiring
+thoughts like the proud ambitious Oaks of <hi>Baſhan.</hi> They take up but
+little room in the World, and do not kill the Herbage by poyſonous droppings
+or vene<g ref="char:EOLhyphen"/>mous ſhades. <hi>Learn of me,</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 11.29.</note> ſaith Chriſt,
+<hi>for I am meek and lowly, and you ſhall find reſt to your Souls.</hi>
+Meek<g ref="char:EOLhyphen"/>neſs to bear reproof, meekneſs to return mild and ſoft anſwers,
+meek<g ref="char:EOLhyphen"/>neſs not to murmur againſt afflicting Providences, are the notes of a
+hum<g ref="char:EOLhyphen"/>ble Myrtle. Of a meek Spirit like <hi>Moſes,</hi> 
+               <note place="margin">1 <hi>Pet.</hi> 3.4.</note> which is with God of
+a great price. Meekneſs and quietneſs go hand in hand: Meddleſome,
+touchy, and quarrelſome Spirits, are not led by the Spirit of God. There grow
+no Thorns upon theſe Balſam Plants <pb n="14" facs="tcp:59291:10"/>which thrive in cool
+Vallies at the bottoms of lofty and barren Moun<g ref="char:EOLhyphen"/>tains— <hi>&amp; amantes
+frigora Myrtos.</hi> Saints and gracious Perſons are not ſo ſoon touch'd
+with direful Thun<g ref="char:EOLhyphen"/>derbolts, nor inflam'd by the light<g ref="char:EOLhyphen"/>ning Flaſhes of rage
+and anger.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Myrtle is ever Green: Though low,
+yet always verdant. So lovely a Green, it tempts the eye with delight to
+ſpend contemplati<g ref="char:EOLhyphen"/>ons upon it; and 'tis always green like that Godly Man
+whoſe Leaf never withers: 
+<note place="margin">
+                  <hi>Pſ.</hi> 1.3.</note> No cold Winter
+ſtrips them of their Holy profeſſion. Hypocrites are Sunſhine
+Profeſſors, Somer Birds, Butterflies that come forth when the Church enjoys
+her <hi>May:</hi> But Gods true Myrtles are green in <hi>January,</hi> the
+Moneth of this bleſſed Viſion. The ſtorm of Perſecution may break
+their Boughs, but not deſtroy their greenneſs; they may ſtand in a deep
+Valley, the Church may be driven into holes, but ſtill retains her native
+emerald green<g ref="char:EOLhyphen"/>neſs. As the Dove may be forced into a cleft of the Rock; but
+mourns <pb n="15" facs="tcp:59291:10"/>and retains the voice of a Dove ſtill. 
+<note place="margin">
+                  <hi>Songs</hi> 2.14.</note>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The Myrtle is eminent for Fragrancy.
+All is ſweet and perfu<g ref="char:EOLhyphen"/>med in a Myrtle. The Berries, Flow<g ref="char:EOLhyphen"/>ers, Leaves, all
+moſt fragrant. The Roſe its Leaves are bitter, though the ſmell ſweet;
+but here all's de<g ref="char:EOLhyphen"/>ſireable, and therefore by the An<g ref="char:EOLhyphen"/>cients dedicated unto
+Love. 
+<q>—Vitis Jaccho, formoſae veneri Myrtus.
+<hi>&amp;c.</hi>
+               </q> Whatever the Church yields, is e<g ref="char:EOLhyphen"/>minent. The thoughts and
+diſcour<g ref="char:EOLhyphen"/>ſes of Saints are like the fine white Flowers of the Myrtle, they
+are full of candour, and breath holineſs in every Air, in every Region. The
+Life of Saints ſmells fragrantly, 
+<note place="margin">
+                  <hi>Songs</hi> 5.16.</note> like Chriſt his
+Mouth is moſt ſweet: <hi>He is altogether, all over lovely.</hi>
+            </p>
+            <p n="4">4. 
+<note place="margin">4. <hi>l.</hi> 1. <hi>c.</hi> 155.</note> The
+Fruit of the Myrtle is Me<g ref="char:EOLhyphen"/>dicinal: It is aſtrictive, ſays
+<hi>Dioſco<g ref="char:EOLhyphen"/>rides,</hi> and therefore good againſt ſpitting of Bloud, and
+beneficial to the Stomach, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <pb n="16" facs="tcp:59291:11"/>Myrtle
+Wine is profitable againſt the bitings of the Spider <hi>Phalangium,</hi> and
+the ſtings of Scorpions. Gra<g ref="char:EOLhyphen"/>cious perſons are of a healing nature to
+ſuch as breath forth cruelty a<g ref="char:EOLhyphen"/>gainſt the Church, and whoſe Sto<g ref="char:EOLhyphen"/>machs are
+full of poyſon and malig<g ref="char:EOLhyphen"/>nant venom: They are like the Trees of Paradiſe
+for the healing of the Nations wherein they dwell. 
+<note place="margin">
+                  <hi>Rev.</hi> 22.2.</note> A Child of God, much
+more a Church of Chriſt ſhould be like a Colledge of Phyſicians to a
+diſeaſed World. Truly, what is this miſerable for<g ref="char:EOLhyphen"/>lorn World but a meer
+Hoſpital of crazy, wounded, and leprous per<g ref="char:EOLhyphen"/>ſons. Here lye ſome with
+limbs broken in Satans drudgery, others raging under intollerable pains, their
+very Nerves and Bones rotten through the Sins of youth, others full of Boyls
+and putrifying Sores from luſt and corruption, and all poyſon'd with the
+venom of Original Sin. O let Saints carry about the Balm of <hi>Gilead</hi> to
+cure the wound<g ref="char:EOLhyphen"/>ed of the Daughter of their Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <pb n="17" facs="tcp:59291:11"/>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. The Viſion exhibits theſe Trees in
+a cluſter: It is a Myrtle Grove to ſhew Communion. The Church is compared
+to a Flock of Sheep, to a Flight of Doves, to a Knot of Lil<g ref="char:EOLhyphen"/>lies, to a Grove of
+Myrtles. Saints love ſociety, ſo it be a ſociety of Saints. It was a
+cuſtom of old among the Gentiles to dance in their Tem<g ref="char:EOLhyphen"/>ples with Myrtle
+Crowns upon their Heads, to ſignifie amity, love, 
+<note place="margin">Athen. Dipnoſ. <hi>l.</hi> 15. <hi>p.</hi>
+676.</note> and delight in each other: How much more excellent ſhall be the
+Commu<g ref="char:EOLhyphen"/>nion of Saints, when inſtead of the Thorns ſhall ſpring the Firr
+Trees, and inſtead of the Briar or Nettle of the Heathen, 
+<note place="margin">
+                  <hi>Iſ.</hi> 55.13.</note> ſhall ariſe the
+Myrtle for a Name to the Lord; 
+<note place="margin">60.13.</note> an ever<g ref="char:EOLhyphen"/>laſting Sign to
+beautifie the Sanctu<g ref="char:EOLhyphen"/>ary of his Holineſs, which ſhall ne<g ref="char:EOLhyphen"/>ver be cut up.</p>
+            <p n="1">1. Learn, 
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſ.</hi> 1.</note> That Myrtles may grow
+in <hi>Babylon,</hi> nay in Groves, in Church communion, though in a low and
+ſecret Valley by the waters of <hi>Babilon,</hi> till they are tranſplanted
+to <hi>Canaan.</hi> Captive Myrtles ſhall be Crowns of Glory in the Temple
+above. Saints may for a ſeaſon <pb n="18" facs="tcp:59291:12"/>be, and thrive in a
+naughty world, in a hoſtile Country, and preſerved from the foot of
+violence: Saints may ſing Pſalms in <hi>Caeſars</hi> Houſhold, and be
+<hi>chiefly</hi> ſaluted by an holy A<g ref="char:EOLhyphen"/>poſtle. 
+<note place="margin">
+                  <hi>Phil.</hi> 4.22.</note> The Lilly may be
+ſheltred by Thorns, and the myrtle environ'd by a ſharp <hi>Babylonian</hi>
+Quickſet: Our Lord prays the Father not to take his Church out of the World, 
+<note place="margin">
+                  <hi>Joh.</hi> 17.15. <hi>Acts</hi> 2.40.</note>
+but to defend them from the evil of it, and ſave them from the untoward
+generation wherein they live. Were it not for his Myrtles in this Valley of
+Tears, God would ſoon ſend up his Ax upon the Oaks of <hi>Baſhan,</hi>
+and lift up his Hammer upon <hi>Babylon.</hi> They muſt propagate and
+increaſe for a ſeaſon, till the time that <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi>'s ripe for
+vengeance, and the ſecond <hi>Solomon</hi>'s Garden in <hi>Zion</hi>
+meaſur'd out into Beds, 
+<note place="margin">
+                  <hi>Songs</hi> 6.2.</note> made de<g ref="char:EOLhyphen"/>lectable with
+Walks, 
+<note place="margin">4.15.</note> and watred with Streams from
+<hi>Lebanon,</hi> and e<g ref="char:EOLhyphen"/>very way fitted by culture for the reception of
+ſweet-ſcented Myrtles, to be Plants of renown in the Glori<g ref="char:EOLhyphen"/>ous State of the
+Church which haſt<g ref="char:EOLhyphen"/>ens towards us. 
+<note place="margin">
+                  <hi>Ezek.</hi> 34.29.</note>
+            </p>
+            <pb n="19" facs="tcp:59291:12"/>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>2</label> 2. The Churches dark and low
+eſtate moves the Divine bowels to mercy. Now comes a Prophet into the Valley,
+and a Viſion meets him for the Churches Joy in the 2d. of <hi>Darius.</hi>
+This great Prince ſtrengthens the former Edict of <hi>Cyrus</hi> in
+deſpight of <hi>Samaritan</hi> hatred; 
+<note place="margin">
+                  <hi>Ezr.</hi> 6.1, 14.</note> and ſo do the
+following Princes, notwithſtanding <hi>Tobiahs</hi> Alliance to the
+High-Prieſt <hi>Eliaſhib.</hi> 
+               <note place="margin">
+                  <hi>Neh.</hi> 13.4.</note> It's the God of
+<hi>Iſrael</hi> who melts and bends the hearts of Prin<g ref="char:EOLhyphen"/>ces, and makes them
+flexible towards his Church; that the proſtrate Vine may begin to climb up
+and be ſup<g ref="char:EOLhyphen"/>ported by the Elm of Magiſtracy. He turns their hearts to hate
+his People for a ſeaſon for their corre<g ref="char:EOLhyphen"/>ction, 
+<note place="margin">
+                  <hi>Pſ.</hi> 105.25. <hi>Pſ.</hi>
+106.46.</note> and then repents according to the multitude of his mercies, and
+makes them to be pittied of all thoſe that carried them captives. He puts it
+into the hearts of the 10 Kings to fulfill his Will, and to agree, 
+<note place="margin">
+                  <hi>Rev.</hi> 17.17.</note> and give their
+Kingdom to the Beaſt, un<g ref="char:EOLhyphen"/>til the words of God ſhall be fulfilled, and then
+he remembers his Holy Covenant.</p>
+            <pb n="20" facs="tcp:59291:13"/>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>3</label> To encourage his People to go on
+with Temple-work. Shall the heart of <hi>Darius</hi> be enlarged towards the
+duſt and rubbiſh of <hi>Zion,</hi> and and ſhall not <hi>Zachary</hi>
+prophecy, and <hi>Zerubabel</hi> build, 
+<note place="margin">
+                  <hi>Zech.</hi> 3.5.</note> and <hi>Joſhua</hi>
+miniſter with a fair Mitre upon his Head, and all the People ſhout for joy,
+crying, <hi>Grace, grace,</hi> to the Glory of the 2d. Temple, which was far
+greater than the former, 
+<note place="margin">
+                  <hi>Hag.</hi> 2.9.</note> becauſe the
+Meſſenger of the Lord of Hoſts brought peace into it.</p>
+            <p n="4">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>4</label> 4. It's good to abide in
+commu<g ref="char:EOLhyphen"/>nion with the Church of God; to be but a Berry, a Flower, a Leave of the
+Myrtle Tree is a great ho<g ref="char:EOLhyphen"/>nour: Let Saints keep cloſe to this fragrant
+Garden. God ſmells a ſa<g ref="char:EOLhyphen"/>vour of reſt in ſuch Aſſemblies. Eve<g ref="char:EOLhyphen"/>ry
+Church is a Tree, and all the Trees make Gods Myrtle Grove in the Earth: For as
+they have their fragrancy, ſo they enjoy whole Re<g ref="char:EOLhyphen"/>giments of tutelary Angels
+for their defence; yea Chriſt himſelf delights to be no where elſe, and
+to be ſeen among them as a Captain, getting up on his Red Horſe againſt
+their E<g ref="char:EOLhyphen"/>nemies. <pb n="21" facs="tcp:59291:13"/>They may come out with their Swords and
+Hatchets, their Axes and Acts of Hoſtility, but ſhall never be able to cut
+up the Myrtle Grove of the Church, that has ſo glorious a Captain to own it
+for his Garden and deſend it. 
+<note place="margin">
+                  <hi>Iſ.</hi> 4.5.</note> Upon all the Glory
+ſhall be a deſence. 
+<note place="margin">
+                  <hi>Gen.</hi> 3.24.</note> It's like the Ancient
+<hi>Eden</hi> guarded by Cherubims with flaming Swords, turning every way to
+keep the Path of the Trees of Life. Let Saints perſiſt in ſertility and
+fragrancy, and Chriſt will ever make himſelf viſible with troops of
+Angels in the midſt and round about his Fragrant Grove.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> I paſs on now to the 3d. Particu<g ref="char:EOLhyphen"/>lar, <hi>The
+Viſion of the Captain and his Forces.</hi>
+            </p>
+            <p>He that's called a Man in the Text riding on a red Horſe, holds
+confe<g ref="char:EOLhyphen"/>rence with the Prophet, and the Pro<g ref="char:EOLhyphen"/>phet ſtiles him <hi>his Lord,
+v.</hi> 9. and <hi>the Angel of the Lord, v.</hi> 11.</p>
+            <p>Prophets and Angels hold heaven<g ref="char:EOLhyphen"/>ly communion, but eſpecially the
+Angel of the covenant. Now, that this Perſon is the Lord Jeſus Chriſt, 
+<pb n="22" facs="tcp:59291:14"/>the ſame who was with <hi>Moſes</hi> in the Buſh at
+<hi>Horeb</hi> in the Wilderneſs, 
+<note place="margin">
+                  <hi>Acts</hi> 7.38.</note> may appear;</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. By his ſuperiority over An<g ref="char:EOLhyphen"/>gels. 
+<note place="margin">
+                  <hi>Joſ.</hi> 5.14.</note> The Captain of the
+Lords Hoſts, brandiſhing his Sword before <hi>Joſhua</hi> near
+<hi>Jericho,</hi> was now with his Sword girt upon his Thigh, 
+<note place="margin">
+                  <hi>Pſ.</hi> 45.3.</note> like a Prince of
+Might, aſcending the Red Horſe of War: He who is Head over all
+Principalities and Powers to his Church. 
+<note place="margin">
+                  <hi>Eph.</hi> 1.22.</note>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By his Interceſſion for the Church,
+<hi>v</hi> 12. He is the great Me<g ref="char:EOLhyphen"/>diator; we never obſerve Ordina<g ref="char:EOLhyphen"/>ry Angels
+praying to God for the Church in the Sacred Page: Though often praiſing him,
+to teach that none ought to interpoſe in that glorious Office of
+Chriſt.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By his Dictates to the Pro<g ref="char:EOLhyphen"/>phet. He
+ſpeaks not of himſelf, when he declares the Angelical Fun<g ref="char:EOLhyphen"/>ctions of
+viſiting the State of the Church and of the whole Earth. <hi>But theſe</hi>
+(ſays the Captain, <hi>v.</hi> 10.) pointing to the 3 Troops of Holy Angels
+behind him; <hi>theſe are they whom the Lord hath ſent to viſit the</hi> 
+               <pb n="23" facs="tcp:59291:14"/>Church in her ſcattered eſtate through the ſeveral
+Provinces of the Earth under the Dominion of <hi>Ba<g ref="char:EOLhyphen"/>bilon.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By his Inſpiration of Prophecy in a
+way of command, when he had received a comfortable anſwer from the Lord to
+his Prayer for the Church: Cry thou, <hi>Thus ſaith the Lord of Hoſts, I am
+jealous for</hi> Jeru<g ref="char:EOLhyphen"/>ſalem <hi>and for</hi> Zion; that is, <hi>for the City
+and Temple, for the Politick and Eccleſiaſtick Eſtate of his People with
+great jealouſie,</hi> v. 14.</p>
+            <p>Next, we are to conſider him as a Rider upon a Red Horſe. A
+Horſe in Eaſtern Hieroglyphicks and Viſi<g ref="char:EOLhyphen"/>ons, was an Emblem of War, of
+Vi<g ref="char:EOLhyphen"/>ctory, and Triumph: A Red Horſe, of Bloud ſhed in War in order to
+conqueſt; 
+<note place="margin">
+                  <hi>Iſ.</hi> 63.4.</note> to note that
+Chriſt goes with a Spirit of vengeance againſt his Churches Adverſaries,
+and re<g ref="char:EOLhyphen"/>turns with Garments dyed red from <hi>Bozrah,</hi> 
+               <note place="margin">
+                  <hi>Iſ.</hi> 63.1.</note> all ſprinkled and
+daſhed with the Bloud of the Slain. Nay, 
+<note place="margin">
+                  <hi>Rev.</hi> 14.20.</note> ſometimes he rides
+his Horſes up to the Bridles in Bloud in the Valley of
+<hi>Hadadrimmon.</hi>
+            </p>
+            <pb n="24" facs="tcp:59291:15"/>
+            <p>Then come in view his <hi>Satellites,</hi> or the Generous Troops
+under his Im<g ref="char:EOLhyphen"/>perial Standard. Red Horſes, ſpeck<g ref="char:EOLhyphen"/>led, and white,
+repreſenting the Holy Angels, multitudes of them marſhall'd in battel-array
+for vari<g ref="char:EOLhyphen"/>ous Expeditions, with the Trium<g ref="char:EOLhyphen"/>phant iſſue of all their Wars on
+be<g ref="char:EOLhyphen"/>half of the Church. That Horſes and Chariots are Symbols of Angels, may be
+obſerved from other Scrip<g ref="char:EOLhyphen"/>tures; as, 2 <hi>Kin.</hi> 2.11. and 6.17. and
+<hi>Hab.</hi> 3.8. &amp;c. The Chariots of God are 20000, 
+<note place="margin">
+                  <hi>Pſ.</hi> 68.17.</note> even thouſands of
+Angels; and not to mention the alluſions hereto in other Authors, only that
+in <hi>Suidas</hi> at preſent.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: 
+<note place="margin">Suid. <hi>p.</hi> 1271.</note> 
+               <hi>The Viſion
+of White Horſes is an appearance of Angels.</hi> I ſhall come to an
+obſervation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>
+               </label> That Chriſt doth frequently ap<g ref="char:EOLhyphen"/>pear to his
+Church in her diſtreſs un<g ref="char:EOLhyphen"/>der a warlike poſture: He is head of Angels for
+protection to his Myrtle Garden. One Angel might have ſufficed had God ſeen
+good, but for more abundant comfort he marſhalls whole Squadrons and Legions
+of Spi<g ref="char:EOLhyphen"/>ritual <pb n="25" facs="tcp:59291:15"/>light Horſemen for their Ser<g ref="char:EOLhyphen"/>vice. Above
+all, let's take notice of ſome excellencies in this Captain General of the
+Cherubims that is now upon march for the Salvation of his Church.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He is a praying Captain, and mighty
+prevalent with God; like a Prince with God, like a Prieſt upon his Throne; 
+<note place="margin">
+                  <hi>Zech.</hi> 6.13.</note> both Prince and
+Prieſt on horſeback. He never prays but is anſwered, and he ever prays
+be<g ref="char:EOLhyphen"/>fore he goes forth upon expeditions as he does in this Viſion, <hi>v.</hi>
+13. and therefore in righteouſneſs he judgeth and maketh war. It's ſaid
+of old, 
+<note place="margin">
+                  <hi>Rev.</hi> 19.11.</note> 
+               <hi>Nulla fides
+pietaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> viris qui caſtra ſequuntur.</hi> No faith or loyalty in the
+field. But behold, here's one with a double-edged Sword in his Mouth, a fervent
+prayer to make his Sword victorious. 
+<note place="margin">
+                  <hi>Judg.</hi> 7.18.</note> We have here the
+Sword of the Lord as well as of <hi>Gideon;</hi> a Sword from behind the
+<hi>Ephod,</hi> none like it; it hath cut down many a Philiſtine. The Sword
+of God is the Sword of Chriſt: Prayer whets the Sword and courage
+brandiſhes it. In his Majeſty he rides on proſperouſ<g ref="char:EOLhyphen"/>ly, 
+<note place="margin">
+                  <hi>Pſ.</hi> 45.4.</note> 
+               <pb n="26" facs="tcp:59291:16"/>and baths it in the hearts of his Enemies.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. A Captain wiſe for conduct: The
+councel of peace is between his Helmet and Mitre. 
+<note place="margin">
+                  <hi>Zach.</hi> 6.13.</note> He is a Kingly and
+Royal Captain in order to the execution of his Prieſtly and Prophe<g ref="char:EOLhyphen"/>tical
+Office. He fights not for war<g ref="char:EOLhyphen"/>ſake but for peace: He hates them that delight
+in war and ſpin out long Sieges for large Wages. His End is to ſet Peace in
+the Earth, an Univerſal Peace as long as the Sun and Moon endure. 
+<note place="margin">
+                  <hi>Iſ.</hi> 2.4.</note> He deſigns to bring
+all the Swords and Spears of his Warriours to the Smiths Forge, and to
+faſhion them into Sithes and Plow-ſhares, into Sickles and pru<g ref="char:EOLhyphen"/>ning-hooks. 
+<note place="margin">
+                  <hi>Pſ.</hi> 72.7.</note> In <hi>his</hi> days
+ſhall the Righteous flouriſh, and abundance of peace <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>uſq, ad non lunam;</hi> till there be Moon no more. Yea, no leſs wiſe
+in management of his Armies for this glorious Deſign: Inſomuch, that Angels
+who excell in wiſdom, diſdain not to march at his command, and wheel about
+at the clangor of his Trumpet. There's no mutiny in all Heavens Army.
+<hi>Alex<g ref="char:EOLhyphen"/>anders</hi> 
+               <pb n="27" facs="tcp:59291:16"/>Soldiers when they were in the
+<hi>Indies</hi> among the <hi>Oritae,</hi> 
+               <note place="margin">Curt. <hi>&amp;</hi> Arian.</note> would march
+no ſurther though to finiſh the worlds Conqueſt and dip their feet in the
+Eaſtern Ocean: But here is an unwearied Army that march up and down through
+the whole Earth at his command. 
+<note place="margin">v. 11.</note>Angels are his Creatures,
+delighting to do his Will. The Inhabitants of <hi>Petra</hi> in
+<hi>Sogdiana</hi> built upon an inacceſſible Rock, jeered
+<hi>Alexander,</hi> 
+               <note place="margin">Curt. <hi>l.</hi> 7. <hi>c.</hi> 11.</note> and
+askt him whether his Soldiers had wings: But behold here are winged Soldiers
+riding upon winged Horſes that can fly into Cities at their Pleaſure. Such
+a Captain wages war on behalf of his Church. This is he, 
+<note place="margin">
+                  <hi>Exod.</hi> 14.14, 25.</note> who fought from
+Heaven againſt the <hi>Egyptians</hi> and <hi>Pharach</hi> in the Red Sea. He
+taught <hi>Joſhua</hi> to lye in ambuſh a<g ref="char:EOLhyphen"/>gainſt <hi>Ai.</hi> 
+               <note place="margin">
+                  <hi>Joſh.</hi> 8.2.</note> He inſtructed
+<hi>Gideon</hi> to aſtoniſh the <hi>Midianites</hi> by Lamps and Pitchers
+into a panick fear. 
+<note place="margin">
+                  <hi>Jud.</hi> 7.16.</note> It's he, who comes
+from <hi>Edom,</hi> with gar<g ref="char:EOLhyphen"/>ments dyed red from <hi>Bozrah,</hi> glori<g ref="char:EOLhyphen"/>ous in
+his bloudy apparel, 
+<note place="margin">
+                  <hi>Iſ.</hi> 63.1.</note> and march<g ref="char:EOLhyphen"/>ing in the
+greatneſs of his Strength. This is the <hi>David,</hi> who guides all 
+<pb n="28" facs="tcp:59291:17"/>according to the integrity of his heart, 
+<note place="margin">
+                  <hi>Pſ.</hi> 78.72.</note> and by the
+skillfulneſs of his hands.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. A Captain ſucceſsful and
+victo<g ref="char:EOLhyphen"/>rihus: He ſhall ſubdue the people under him. 
+<note place="margin">
+                  <hi>Pſ.</hi> 45.5.</note> Succeſsfulneſs
+in a Cap<g ref="char:EOLhyphen"/>tain is a mark of Honour ſtampt up<g ref="char:EOLhyphen"/>on him by God, to ſignifie that
+ſuch ſhould be uſed. Such a character was imprinted upon <hi>Joſhua:
+The Lord thy God is with thee whither ſoe<g ref="char:EOLhyphen"/>ver thou goeſt.</hi> 
+               <note place="margin">
+                  <hi>Joſ.</hi> 1.9.</note> Though the Church
+hath ſometimes been oppreſt for a while, yet Chriſt never went forth
+attended with his Angeli<g ref="char:EOLhyphen"/>cal Troops, but his Sword returned fat with the bloud
+of the ſlain. We need not range into the Annals of Ancient times; for even
+ſince the Incarnation, this Prince of <hi>Iſrael,</hi> this
+<hi>Michael,</hi> one like unto God hath fixt his Trophies with mighty honour
+upon the tops of the higheſt Moun<g ref="char:EOLhyphen"/>tains. In what triumphant Chariots did he
+ride up to the Capitol in the days of <hi>Conſtantine</hi> at the ſubduing
+of the <hi>Pagan</hi> perſecuting <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire: 
+<note place="margin">
+                  <hi>Rev.</hi> 12.7.</note> What Songs of
+deliverance fil<g ref="char:EOLhyphen"/>led the Church in the times of <hi>The<g ref="char:EOLhyphen"/>odoſius</hi> 
+               <pb n="29" facs="tcp:59291:17"/>the great. He will perform the like and greater
+atchievements a<g ref="char:EOLhyphen"/>gainſt Papal <hi>Rome.</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 17.14.</note> For the Lamb ſhall
+overcome them who is Lord of Lords, and King of Kings.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. He is a Captain of numerous Angels,
+that excell in ſtrength. He leads thoſe thundring Legions into field, who
+love the Church, and de<g ref="char:EOLhyphen"/>ſight in employment as miniſtring Spirits for the
+heirs of Salvation. 
+<note place="margin">
+                  <hi>Heb.</hi> 1.14.</note> Theſe Angels
+converſe among the Myrtle Trees, as well as their glo<g ref="char:EOLhyphen"/>rious Captain, and go
+forth for in<g ref="char:EOLhyphen"/>telligence, and ſpy out the ſecreteſt counſels of the
+Adverſaries: So that if ſtrength, number, policy, intel<g ref="char:EOLhyphen"/>gence and
+ſucceſs can make an Army happy, the Saints and the Church are bleſſed.
+Nay, they are ſuch as no dint or force of their enemies can touch or wound
+them: they fight inviſibly: they need no ſcaling Ladders to climb and
+aſſault the Cities of their Ene<g ref="char:EOLhyphen"/>mies; they can either fly over or pierce
+through their ſtrongeſt Walls and ſet the Church at reſt,
+whenſo<g ref="char:EOLhyphen"/>ſoever infinite Wiſdom ſhall think meet.</p>
+            <pb n="30" facs="tcp:59291:18"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>1</label> Wo to the Churches Enemies, who think
+they gird on their Ar<g ref="char:EOLhyphen"/>mour againſt men like themſelves; 'tis a grand
+miſtake. The mighty Angels are drawn up in Batalia a<g ref="char:EOLhyphen"/>gainſt them. When
+<hi>Julian</hi> was ſhot by a caſual Arrow; it's reported that he flung his
+bloud into the Air againſt Chriſt, appearing to him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+and accuſed him of his ſlaughter: 
+<note place="margin">Sozomen <hi>l.</hi> 6. <hi>c.</hi> 2.
+<hi>p.</hi> 366. Theodo<g ref="char:EOLhyphen"/>ret. <hi>l.</hi> 3. <hi>c.</hi> 20. Caſſendor.
+<hi>Trip. Hiſt. l.</hi> 6. <hi>c.</hi> 47. Niceph. <hi>l.</hi> 10.
+<hi>c.</hi> 35.</note> Others ſay, that he cried out with ſcoff and
+blaſphemy, <hi>Thou haſt overcome me O Galilean, thou haſt overcome
+me.</hi> But whether Chriſt himſelf, or an Angel by his ordination, as
+others report, it alters the caſe but little, ſince we are ſure it was
+like the Ar<g ref="char:EOLhyphen"/>row ordained againſt <hi>Ahab,</hi> it hit by the aſſignation
+and conduct of Heaven; or as <hi>Sozomen</hi> phraſes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+he was ſlain by God, and received the due reward of his infamous taunt
+againſt our bleſſed Lord. For when he was marching againſt the
+<hi>Perſians,</hi> he ſo<g ref="char:EOLhyphen"/>rely threatned the Chriſtians that the
+Carpenters Son ſhould not avail them. 
+<note place="margin">Soz. <hi>ibid.</hi>
+               </note> To which a
+Prophetical per<g ref="char:EOLhyphen"/>ſon <pb n="31" facs="tcp:59291:18"/>ſmartly replied, that he was
+preparing a Coffin for <hi>Julian,</hi> and he was buried with ſcorn in the
+Su<g ref="char:EOLhyphen"/>burbs of <hi>Tarſus,</hi> by a rabble piping and dancing, and exclaiming, 
+<note place="margin">
+                  <hi>Jud.</hi> 8.</note> 
+               <hi>O great fool, where
+are now thy Prophe<g ref="char:EOLhyphen"/>ſies? God and his Chriſt have over<g ref="char:EOLhyphen"/>come thee: So let all
+thine enemies pe<g ref="char:EOLhyphen"/>riſh O Lord.</hi> The great God hath all the Hoſts in
+Heaven and Earth at his back: Various ſorts and offices of Angels, ſome
+red, others ſpeck<g ref="char:EOLhyphen"/>led and white, alluding to the diver<g ref="char:EOLhyphen"/>ſities of Colours in
+the Standards of Armies, to know their Leaders, and to keep rank and order.
+<hi>Aelian</hi> hath writ his Tacticks, and <hi>Polyaenus</hi> his Stratagems,
+but no Methods or Policies like theſe of the Angelical Army, 
+<note place="margin">
+                  <hi>Ezek.</hi> 17.20. &amp; 32.3.</note> who lye
+in ambuſh behind the Myrtle Trees, and ſpread their Nets over the Heads of
+the ten-hor<g ref="char:EOLhyphen"/>ned Beaſt of <hi>Babylon.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>2</label> Let not the Church be troubled, if
+ſometimes the Speckled Horſes ap<g ref="char:EOLhyphen"/>pear, though various adminiſtrati<g ref="char:EOLhyphen"/>ons
+interweave the Churches com<g ref="char:EOLhyphen"/>forts. <hi>April</hi> will paſs, and a durable
+Somer follow: What begins with red, <pb n="32" facs="tcp:59291:19"/>goes on with
+ſpeckled, and ends in white. The Combat is bloudy at firſt, but always
+ſucceſsful, and ſhall be crowned with victory. The Church is like the
+<hi>Roman</hi> Empire, whereof the Hiſtorian ſaid, <hi>Pugnâ victi
+ſed nunquam bello:</hi> A Battel may ſometimes go off dubious but never
+overcome in a war. The Churches Myrtles ſhall never be cut down ſo long as
+an Angel can keep the field, he will protect them. So long as the Captain of
+the Lords Hoſts wears his Myrtle Crown, 
+<note place="margin">Corona Myrtea.</note> he'll lead his Church in
+pleaſant meaſures in the Wildernes of <hi>Shur,</hi> and teach them to
+ſing the triumphal Song of <hi>Moſes</hi> and the Lamb on the brink of the
+Red Sea, 
+<note place="margin">
+                  <hi>Exod.</hi> 15.22.</note> while the
+<hi>Egyptian</hi> Carcaſſes dance upon the waters in regular order to the
+Churches Son<g ref="char:EOLhyphen"/>nets.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>3</label> Let this exerciſe the faith of Saints:
+Though they ſit heavy in a dark night, yet morning will come: Though the
+Church mourn in a gloo<g ref="char:EOLhyphen"/>my bottom, yet atlength ſhe ſhall be advanced on the
+top of the high<g ref="char:EOLhyphen"/>eſt Mountains. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſ. </seg>2.2.</label> Though wicked
+e<g ref="char:EOLhyphen"/>nemies <pb n="33" facs="tcp:59291:19"/>compaſs them round for a while: yet the Hoſt
+of Angels with<g ref="char:EOLhyphen"/>in them ſhall break through and put all the Armies of the
+Aliens to flight. The fourth watch of the night though the darkeſt, yet 'tis
+neareſt the morning, and the deep<g ref="char:EOLhyphen"/>eſt place of the Valley is next to the
+foot of the Mountain for aſcent.</p>
+            <p>Let this Viſion comfort the Church that God is pleaſed to
+ſend Prophets to manifeſt the iſſue of all their troubles. They ſhall
+not on<g ref="char:EOLhyphen"/>ly be delivered in due time, but they ſhall know it before-hand to
+aſwage their ſorrows, and to heighten their expectations of deliverance.
+Though the Viſion be given by night, yet he ſhines upon the head of his
+<hi>Zachary,</hi> 
+               <note place="margin">
+                  <hi>Amos</hi> 3.7.</note> and does nothing but
+what he re<g ref="char:EOLhyphen"/>veals to his Servants the Prophets; and we muſt enquire from
+<hi>them</hi> not only our duty in a night of darkneſs, but our comfort
+alſo in the Valley of affliction. Let's remember to keep to the ſociety of
+Myrtles, if we would enjoy the preſence of Chriſt, the protection of
+Angels, the viſions <pb n="34" facs="tcp:59291:20"/>of Prophets, and final victory over
+the Churches Enemies.</p>
+            <p>The laſt Uſe ſhould be for inqui<g ref="char:EOLhyphen"/>ry after the end of the
+Viſion when the white horſes of victory and triumph ſhall appear to the
+Church: 
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſ.</hi> 5. <hi>Add.</hi>
+               </note> As he
+ſaid to the man clothed in lin<g ref="char:EOLhyphen"/>nen, 
+<note place="margin">
+                  <hi>Dan.</hi> 12.6.</note> 
+               <hi>How long ſhall
+it be to the end of theſe wonders!</hi> Or as that Saint en<g ref="char:EOLhyphen"/>quired of the
+<hi>Palmoni</hi> or the won<g ref="char:EOLhyphen"/>derful Numberer, <hi>How long ſhall it be that
+the Sanctuary and the Hoſt ſhall be trodden under foot?</hi> And he ſaid
+unto him, 
+<note place="margin">8.14.</note> 2300 <hi>days, then ſhall the
+Sanctuary be cleanſed.</hi>
+            </p>
+            <p>Let's count then from the burn<g ref="char:EOLhyphen"/>ing of the City and Temple of
+<hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> by <hi>Nebuchadnezzar</hi> in the 19th. 
+<note place="margin">2 <hi>K.</hi> 25.8. <hi>Jer.</hi> 52.12.
+Uſſer. 2300 588 1712.</note> year of his Reign, which was concurrent with
+the 588th. vulgar year before the Nativity of our bleſ<g ref="char:EOLhyphen"/>ſed Lord: From which
+time, if we reckon 2300 years, it leads us by the hand to the common year of
+our Lord 1712. About which time the pure Worſhip which hath been op<g ref="char:EOLhyphen"/>poſed
+and confuſed ever ſince the ruin of <hi>Solomon</hi>'s Temple, it's very
+likely may be reſtored to an Evange<g ref="char:EOLhyphen"/>lical <pb n="35" facs="tcp:59291:20"/>Glory, and the
+abominations of deſolation removed out of the way. I know what is ſaid
+about the literal fulfilling of this Text, under <hi>Antiochus,</hi> and the
+myſtical in the days of <hi>Julian;</hi> but I take it to be a more
+comprehenſive Oracle, not to be here amply diſcuſſed. As for
+<hi>Ju<g ref="char:EOLhyphen"/>lians</hi> time, when the <hi>Jews</hi> attempted to rebuild the Temple
+by his Edict in ſcorn to our Saviours Prophecy in the year 363, when
+<hi>Julian</hi> was 4th time Conſul with <hi>Saluſtius Promotus.</hi> We
+find no account of any Sacrifice then offered, for they were but cleering the
+Rubbiſh. How then can this be an <hi>Epoche</hi> from the taking away that
+Sacrifice which was not then offered; no, nor ſince the days of
+<hi>Titus.</hi> Beſides <hi>Julian</hi> did this in a mock-ſavour to the
+<hi>Jews,</hi> and ſtood not with an Army in the Holy Place or City, for he
+came no nearer than about <hi>Antioch</hi> in his march to <hi>Per<g ref="char:EOLhyphen"/>ſia;</hi>
+and therefore this can be no root of numeration in this caſe.</p>
+            <p>Another gracious manifeſtation of the time is in the 12th.
+Chapter, which muſt be underſtood of the ta<g ref="char:EOLhyphen"/>king <pb n="36" facs="tcp:59291:21"/>away
+Evangelical Worſhip for the time, 
+<note place="margin">
+                  <hi>Dan.</hi> 12.7.</note> times and a half
+mentioned, <hi>v.</hi> 7. are diſertly and diſtinctly ap<g ref="char:EOLhyphen"/>plyed to the
+duration of the ten-horned beaſt, 
+<note place="margin">7.25.</note> 
+               <note place="margin">
+                  <hi>Rev.</hi> 11.2.3.</note> in the 7th
+<hi>Chapter;</hi> and is coincident with 1260 days in <hi>John,</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 13.5.</note> or the 42 months of their trampling down the Holy
+City, de<g ref="char:EOLhyphen"/>taining the Woman in the Wilder<g ref="char:EOLhyphen"/>neſs and the Witneſſes in
+ſack-cloth. But in aſmuch that <hi>Daniel</hi> adds 30 days to the 1260, it
+may be ſugge<g ref="char:EOLhyphen"/>ſted that he reflects upon the Reſti<g ref="char:EOLhyphen"/>tution of
+<hi>Iſrael</hi> and their converſion to offer up ſpiritual Sacrifice,
+which may be performed ſome ſhort time after the reſurrection of the
+Eſtate of the Church in the Weſt. So then if the Ten-horned Beaſt roſe
+in the Ruines of the <hi>Roman</hi> Empire: It's but conſidering when that
+City was taken, and the Imperial State demo<g ref="char:EOLhyphen"/>liſht and finiſht, 
+<note place="margin"> 
+                  <table>
+                     <row>
+                        <cell>1290</cell>
+                     </row>
+                     <row>
+                        <cell>410</cell>
+                     </row>
+                     <row>
+                        <cell role="total">1700</cell>
+                     </row>
+                  </table> 
+               </note> and connex the 1260 or 1293; and the bleſſed
+times will appear to the comfort and joy of the Church.</p>
+            <p>
+               <hi>Rome</hi> was firſt taken by <hi>Alaricus A.</hi> 410.</p>
+            <pb n="37" facs="tcp:59291:21"/>
+            <p>A ſecond time by <hi>Genſericus, A.</hi> 455.</p>
+            <p>The third by <hi>Odoacer, A.</hi> 476. When having taken
+<hi>Rome,</hi> depoſed <hi>Auguſtulus. 
+<note place="margin">Paul. Dia<g ref="char:EOLhyphen"/>con <hi>in add. ad</hi> Eutrop
+<hi>l.</hi> 16. <hi>p.</hi> 155.</note> Paulus Diaconus</hi> ſub<g ref="char:EOLhyphen"/>joynes,
+<hi>Ita Romanorum apud</hi> Ro<g ref="char:EOLhyphen"/>mam <hi>Imperium toto terrarum orbe ve<g ref="char:EOLhyphen"/>nerabile
+&amp; Auguſtalis illa ſublimitas, quae ab Auguſto quondam Octaviano
+e<g ref="char:EOLhyphen"/>recta eſt, cum hoc Auguſtulo periit.</hi> Thus the Empire of the
+<hi>Romans</hi> at <hi>Rome,</hi> venerable through the whole World, and that
+imperial dignity which roſe in <hi>Auguſtus,</hi> periſht in
+<hi>Auguſtulus.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed is he that readeth and they that he are the words
+of this Prophecy,</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 1.3.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>and that keep the things written therein, for the time is at hand.</hi> The
+word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſometimes ſignifies Aſtronomical
+Obſervations. We ought to be more curious and dili<g ref="char:EOLhyphen"/>gent in calculating the
+motions of Scripture-times than the moſt accu<g ref="char:EOLhyphen"/>rate Obſerver of Eclipſes
+and other Heavenly Configurations which are of great uſe in Scripture
+Chronolo<g ref="char:EOLhyphen"/>gy. 
+<note place="margin">
+                  <hi>Pſ.</hi> 89.36, 37.</note> The Throne of
+this 2d. <hi>David</hi> is more eſtabliſht than the Sun or 
+<pb n="38" facs="tcp:59291:22"/>the Moon before him, and as a faith<g ref="char:EOLhyphen"/>ful Witneſs in
+Heaven. <hi>Behold, he cometh quickly, 
+<note place="margin">
+                     <hi>Rev.</hi> 22 7.</note> bleſſed is he
+that keep<g ref="char:EOLhyphen"/>eth the ſayings of the Prophecy of this Book.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> But ſome may ſay, What comfort is this to
+us, who it may be, are ne<g ref="char:EOLhyphen"/>ver like to ſee theſe glorious times; let us make
+our calling and election ſure, that we may enter into the E<g ref="char:EOLhyphen"/>ternal Joy of our
+Lord.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> I anſwer: Of all things in the World let's
+firſt make ſure of our own Salvation, and clear our evi<g ref="char:EOLhyphen"/>dences to eternal
+life, 
+<note place="margin">2 <hi>Pet.</hi> 1.11.</note> that we may have
+abundant entrance into the Kingdom of our Lord and Saviour. And <hi>then,</hi>
+let the proſperity of <hi>Sion</hi> lye warm at our hearts. All the Holy men
+of old took great delight in beholding the Churches Glory, though but in the
+Glaſs of Viſion; 
+<note place="margin">
+                  <hi>Pſ.</hi> 102.14.</note> Nay they took
+pleaſure in her ſtones and favoured the duſt thereof: For when the Lord
+ſhall build up <hi>Zion,</hi> he ſhall appear in his glory. 
+<note place="margin">16.</note>This ſhall be written for the
+Generation to come and the people that ſhall be created, 
+<note place="margin">18.</note>ſhall praiſe the Lord. The 
+<pb n="39" facs="tcp:59291:22"/>times of refreſhing <hi>ſhall</hi> come, and the
+reſtitution of all things whereof God hath ſpoken by the mouth of
+<hi>all</hi> his Holy Prophets ſince the world began; 
+<note place="margin">
+                  <hi>Acts</hi> 3.21.</note> 
+               <note place="margin">2 <hi>Pet.</hi> 3.2.</note> and we ought to be
+mind<g ref="char:EOLhyphen"/>ful of the words ſpoken before by the holy Prophets and Apoſtles
+con<g ref="char:EOLhyphen"/>cerning the promiſe of his coming; looking for, and haſtning to the
+com<g ref="char:EOLhyphen"/>ing of the day of God,<note place="margin">13.</note> when there ſhall be a
+new Heaven and a new <hi>Earth</hi> wherein dwelleth righteouſ<g ref="char:EOLhyphen"/>neſs, 
+<note place="margin">15.</note>teſtifying that Holy <hi>Paul</hi>
+hath ſpoken of theſe things in his Epiſtles: 
+<note place="margin">
+                  <hi>Rom.</hi> 8.21.</note> 
+               <hi>When the Creature
+it ſelf</hi> (<hi>diſtinct from Saints,</hi> v. 23.) <hi>ſhall be
+delivered from the bondage of corruption into the glorious liberty of the Sons
+of God.</hi> Shall the <hi>great</hi> God think it <hi>meet</hi> in his
+heavenly wiſdom and goodneſs to the Church to foretell by <hi>all</hi> his
+Holy Prophets and Apoſtles theſe glorious times? Shall the Son of God
+receive this diſcovery from the Father and ſignifie it to his Angel, and
+ſend it by his Angel to his Ser<g ref="char:EOLhyphen"/>vant <hi>John</hi> his beloved Diſciple.
+What a magnificent <hi>apparatus</hi> is here from God the Father to the Son, 
+<pb n="40" facs="tcp:59291:23"/>from his Son to the Angel, and from the Angel to
+<hi>John!</hi> Such as is be<g ref="char:EOLhyphen"/>fore no Book of Holy Scripture be<g ref="char:EOLhyphen"/>ſides, and
+this upon the Lords Day to an Apoſtle in the Spirits extaſie, 
+<note place="margin">v. 10.</note>and to a boſom Apoſtle in
+tribulati<g ref="char:EOLhyphen"/>on, and in the Kingdom and Pati<g ref="char:EOLhyphen"/>ence of Jeſus Chriſt. Nay, what a
+Majeſtical Scene is laid down in the 4th. Chapter, which is wholy ſpent in
+preparation for theſe Viſions of things to come. A door opened in Heaven,
+and a voice like a Trum<g ref="char:EOLhyphen"/>pet, and a glorious Throne appear<g ref="char:EOLhyphen"/>ing, and a Perſon
+upon it in viſage like the various-coloured Jaſper and the incarnate
+Sardine, and the Rain<g ref="char:EOLhyphen"/>bow of the Covenant like the green Emerald round about
+the Throne, And ſhall minute, ſilly, mortal worms make light of theſe
+things, and de<g ref="char:EOLhyphen"/>ſpiſe to ſtudy the ſplendid radiant Propheſies let
+down from Heaven as a token of Gods love to his Church; It becomes not any, who
+profeſs themſelves the Servants of the moſt high God. 
+<note place="margin">
+                  <hi>Dun.</hi> 19.2.</note> Are they wiſer than
+<hi>Da<g ref="char:EOLhyphen"/>niel,</hi> 
+               <note place="margin">
+                  <hi>Ezek.</hi> 28.8.</note> who underſtood the
+number of the years by Books, and ſet him<g ref="char:EOLhyphen"/>ſelf <pb n="41" facs="tcp:59291:23"/>to
+prayer about it. Yea, 
+<note place="margin">
+                  <hi>Zach.</hi> 1.12.</note> the Angel of the
+Covenant urges the number of the years in prayer, 
+<note place="margin">
+                  <hi>Rev.</hi> 13.18.</note> and the Spirit of
+God ſets it down for a point of wiſdom to count the num<g ref="char:EOLhyphen"/>ber of the Beaſt.
+To what end? but for the conſolation of the Church when they know by the
+mouth of his holy Prophets that her warfare is accompliſhed; 
+<note place="margin">
+                  <hi>Iſ.</hi> 40.2.</note> 
+               <note place="margin">41.25.</note> and that God would in due time
+raiſe up one from the North, 
+<note place="margin">Cyrus.</note> and the riſing of the Sun.
+<hi>Behold, <milestone type="tcpmilestone" unit="unspecified" n="27"/> behold I will give to</hi> Jeruſa<g ref="char:EOLhyphen"/>lem <hi>one
+that bringeth good tidings</hi> It's a great reviving to the hearts of Saints
+who are affectionately inclin'd to the good and welfare of <hi>Zion,</hi> to
+hear that God will bring down his proud enemies, 
+<note place="margin">
+                  <hi>Iſ.</hi> 62.7.</note> and ſhortly make
+<hi>Yeruſalem</hi> the praiſe and joy of the whole Earth; and though
+them<g ref="char:EOLhyphen"/>ſelves ſhould not ſurvive to ſee all the goodneſs that God will
+ſhew to his people; yet like good old <hi>Si<g ref="char:EOLhyphen"/>meon</hi> will ſing to take
+the young be<g ref="char:EOLhyphen"/>ginnings of this Salvation in their Arms.</p>
+            <p>
+               <hi>David,</hi> 
+               <note place="margin">1 <hi>Chr.</hi> 28.3.</note> though forbidden to
+build the Temple, yet prepared for it <pb n="42" facs="tcp:59291:24"/>with all his might
+and ſet his affecti<g ref="char:EOLhyphen"/>on upon it, 
+<note place="margin">29.2, 3 9.</note> and rejoyced with great joy. 
+<note place="margin">
+                  <hi>Deut.</hi> 3.25.</note> 
+               <hi>Moſes,</hi>
+though he could not obtain to ſee the good Land beyond <hi>Jordan,</hi> that
+goodly Mountain, e<g ref="char:EOLhyphen"/>ven <hi>Lebanon</hi> and that pleaſant Val<g ref="char:EOLhyphen"/>ley of
+<hi>Damaſcus,</hi> which lies between the two <hi>Lebanons</hi> from Weſt
+to Eaſt about 40 miles in length, the ſweet<g ref="char:EOLhyphen"/>eſt and goodlieſt Valley
+that ever the Sun ſhined upon: As a learned Traveller told me, who was a late
+eye witneſs of its beauty; yet holy <hi>Moſes</hi> enjoy'd great pleaſure
+in ta<g ref="char:EOLhyphen"/>king but a proſpect of it before he dyed from the top of
+<hi>Piſgah.</hi> 
+               <note place="margin">34.1.</note>
+            </p>
+            <p>Beloved <hi>Daniel</hi> pronounceth him bleſſed, 
+<note place="margin">
+                  <hi>Dan.</hi> 12.12.</note> that waiteth and
+cometh to theſe happy times, and receives a promiſe of ſtanding in this
+Lot of his inheritance in the end of the days: And laſtly, bleſſed
+<hi>John</hi> prophecy<g ref="char:EOLhyphen"/>ing of the New <hi>Jeruſalem,</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 21.21, 24.</note> and of the
+ſaved Nations which ſhall walk in the light thereof, and of the Kings of
+the Earth bringing their glory and honour into it, declares them bleſſed
+that do his Commandments, and thereby have right to the Tree 
+<pb n="43" facs="tcp:59291:24"/>of Life, 
+<note place="margin">22.14.</note> and to enter through the Gates
+into the City.</p>
+            <p>To end, What though ſeveral have erred in the Computation of
+Times, this does no way invalidate the dignity of Scripture Oracles, nor the
+certainty of their diſtinctly timed iſſue; but ſhould ſtir up o<g ref="char:EOLhyphen"/>thers
+to compare Scriptures more accurately, to ſearch the Ancient Hi<g ref="char:EOLhyphen"/>ſtories
+more curiouſly, to diſcern what providences have writ their comment upon
+thoſe parts of pro<g ref="char:EOLhyphen"/>phecy already fulfilled, to be diligent in the computation
+of Eclipſes and other appearances of the heavenly bodies. which are the onely
+true fixers of Chronology, without which all calculations in this nature will
+prove lame and inſignificant, to con<g ref="char:EOLhyphen"/>ſider the nature of Scripture years
+which may ſomewhat differ from the <hi>Julian,</hi> But above all, to pray
+ar<g ref="char:EOLhyphen"/>dently for the Spirits conduct, ſince the Apoſtle conjoynes the
+quenching of the Spirit to the deſpiſing of pro<g ref="char:EOLhyphen"/>phecy, 
+<note place="margin">1 <hi>Theſ.</hi> 5.19, 20.</note> and know
+aſſuredly, 
+<note place="margin">
+                  <hi>Hab.</hi> 2.3.</note> That the Viſion is
+for a fixed, an appoint<g ref="char:EOLhyphen"/>ed time, and he that ſhall come will 
+<pb n="44" facs="tcp:59291:25"/>come and will not tarry, and the benign Dews ſhall
+ſweetly deſcend upon the Mountains of <hi>Zion, 
+<note place="margin">
+                     <hi>Mic.</hi> 5.7.</note> which tarrieth not
+(for mans time) nor waiteth for the Sons of Men.</hi>
+            </p>
+         </div>
+         <div n="2" type="discourse">
+            <pb n="45" facs="tcp:59291:25"/>
+            <head>
+               <note place="margin">1673. <hi>Jul.</hi> 20.</note> The Second
+DISCOURSE ABOUT THE <hi>LILLY among THORNS.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Songs</hi> 2.2.</bibl>
+            </epigraph>
+            <p>HERE we have Chriſts own Pencil drawing the beau<g ref="char:EOLhyphen"/>tiful Face of
+his Spouſe from the Glaſs of his own Countenance, with this diffe<g ref="char:EOLhyphen"/>rence, 
+<note place="margin">v. 1.</note>
+               <hi>Chriſt is a Lilly among the
+Roſes of</hi> Sharon, <hi>the Church a Lilly among the Thorns in the Valley
+of weeping: Chriſt, the Lilly in Glory, the Church in Grace: Chriſt in
+Pa<g ref="char:EOLhyphen"/>radiſe, the Church in a Wilderneſs.</hi> And 'tis no ſmall part of his
+Lilly-like meekneſs, to own his Church in her thorny eſtate, and deſcribe
+her by his own beauty. <hi>She is perfect <pb n="46" facs="tcp:59291:26"/>through the
+comelineſs that he puts upon her.</hi> 
+               <note place="margin">
+                  <hi>Ezek.</hi> 16.14.</note> The Churches Moon
+ſhines by the Rayes of the Sun of Righte<g ref="char:EOLhyphen"/>ouſneſs reflected upon her,</p>
+            <p>
+               <hi>In the words obſerve:</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The nature and feature of the Church
+ſet forth by Lillies.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The ſcituation of this beauti<g ref="char:EOLhyphen"/>ful
+Plant: 'Tis among Thorns.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Chriſt's tender affection to his
+Church while ſet among the Thorns: She is the love of Chriſt.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. The compaſſion of Chriſt im<g ref="char:EOLhyphen"/>plyed
+in this his own Deſcription. He himſelf takes kind notice, how his beloved
+Spouſe is encompaſſed and endangered by Thorns and Bryars.</p>
+            <p>There be ſome, (as <hi>Brightman</hi> and <hi>Cotton</hi>) who
+reduce this Song to a Prophecy, and the <hi>Chaldee</hi> Para<g ref="char:EOLhyphen"/>phraſt refers
+this ſtaff of the Song to the time of captivity; I ſuppoſe he means that
+of <hi>Babylon.</hi> I ſhall not diſcuſs thoſe Prophetical Notions on
+this Song of Songs; nor be very ſollicitous about the ſort of Lilly here
+aſſum'd for the Metaphor. <pb n="47" facs="tcp:59291:26"/>Whether the Tulip of
+<hi>Perſia,</hi> to which <hi>Solomon</hi> is reſembled, 
+<note place="margin">
+                  <hi>Mat.</hi> 6.29.</note> when in all his
+glory; or whether that, now called the Lilly of the Vallies, which bears that
+curious lovely Flower growing among Woods and Thickets.</p>
+            <p>Neither ſhall I enlarge my Diſ<g ref="char:EOLhyphen"/>courſe upon this
+Lilly-Valley, by drawing Parallels between it and the Church as to its beauty,
+tender<g ref="char:EOLhyphen"/>neſs, lowlineſs, purity, candor or ſragrancy; its gratefulneſs
+to the Nerves and Medicinal Virtue for af<g ref="char:EOLhyphen"/>fections of the Head, its ſudden
+growth and bloſſoming in the Spring time of the year. But leave all theſe
+for ſubjects to pious meditations, and repair to the 2d. branch of the Text,
+<hi>ſcil.</hi> The ſtate or poſition of the Church of Chriſt among
+Thorns. By Thorns are meant the Daugh<g ref="char:EOLhyphen"/>ters, ſo ſays the Spirit. And as
+there are two ſorts of Daughters, 
+<note place="margin">
+                  <hi>Gen.</hi> 6.4. <hi>Song.</hi> 2.7.</note>
+the Daughters of Men and the Daughters of <hi>Jeruſalem,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label> it may be demanded what Daughters are ſet forth by the Thorns in the
+Text?</p>
+            <pb n="48" facs="tcp:59291:27"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> I anſwer, That ſince the Daugh<g ref="char:EOLhyphen"/>ters of
+<hi>Jeruſalem</hi> were the outward Profeſſors in the Jewiſh Church,
+who might poſſibly at firſt be ſigni<g ref="char:EOLhyphen"/>nified by Weeds in the Garden. But
+when once they became Perſecu<g ref="char:EOLhyphen"/>tors, I ſuppoſe that they are not
+incongruouſly compared to the Brambles of the Deſert. For ſure<g ref="char:EOLhyphen"/>ly as
+<hi>Bernard</hi> glances, 
+<note place="margin">Bern. <hi>in Cor.</hi>
+               </note> ſhe is <hi>mala
+filia quae pungit Eccleſiam,</hi> an unto<g ref="char:EOLhyphen"/>ward Daughter that ſcratches the
+Church. Yet, ſince the Wilder<g ref="char:EOLhyphen"/>neſs is the proper and native Seat of
+Brambles; this Text may poſſibly reflect upon the Lilly of the Gen<g ref="char:EOLhyphen"/>tile
+Church. But 'tis ſafer to take in the whole Spouſe of Chriſt, and ſhew,
+That both Heathens and for<g ref="char:EOLhyphen"/>mal Profeſſors are very offenſive and
+uncomfortable Aſſociates to the Church of Chriſt.</p>
+            <p>That the Lord Jeſus hath moſt tender love to his Church,
+<label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>
+               </label> while vexed and diſquieted by the Tribu<g ref="char:EOLhyphen"/>lations of
+this World. Great love to them as Lillies, but yerning bowels as in the midſt
+of Thorns.</p>
+            <div type="clarification">
+               <pb n="49" facs="tcp:59291:27"/>
+               <head>This Point divides it ſelf into two Parts.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The ſtate of the Church in this World. </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The love of Chriſt to her in this State.</p>
+               <p>I ſhall endeavour to treat of the firſt under 6
+Propoſitions.</p>
+               <p>There's a vaſt diſparity between a Lilly and a Thorn. 
+<note place="margin">
+                     <hi>Prop.</hi> 1.</note> Thorns are the
+natural Daughters of the World; or at beſt, but carnal Profeſſors with
+the Maſque of Religion. The Lilly is a true Saint, 
+<note place="margin">v. 1.</note>an Off-ſet from the Root of
+Chriſt. He forms his holy Nature in the Church, and then calls her by his own
+name of a ſpotleſs innocent Lilly. He turns a Bramble into a Lilly by
+omnipotent grace, and then loves it with a ſpotleſs, end<g ref="char:EOLhyphen"/>leſs delight. A
+Child of God may remember his Bramble nature with holy ſhame and humble
+thankful<g ref="char:EOLhyphen"/>neſs, and labour to lead a ſpiritual, meek, and heavenly life,
+like a Lilly of Chriſts regenerating.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> This Lilly, it pleaſes divine love and
+wiſdom to plant in the midſt of a thorny prickly world: 'Tis Chriſt 
+<pb n="50" facs="tcp:59291:28"/>himſelf hath ſet it, and therefore ſees and watches
+it in this perilous ſtate. His Wiſdom thought meet to ſet it, and his
+love delights to guard it. Brambles ſuck away the nitrous juice of the earth,
+to form their pungent prickles, that Lillies may draw more wholeſome
+bal<g ref="char:EOLhyphen"/>ſame.</p>
+               <p>Saints grow the more gracious by the vicinity of ſcratching
+Briars, and holy Men ſhould meekly bear their ſtation, ſince 'tis the
+will of Chriſt.</p>
+               <p>Its great diſcomfort to a Saint that's very gracious, to live
+in a vexing World, But his <hi>tribulation worketh patience</hi> under
+ſorrows, ex<g ref="char:EOLhyphen"/>perience of divine Protection, and hope of glory, 
+<note place="margin">
+                     <hi>Ro.</hi> 5.4. <hi>Pſ.</hi> 120.5.</note>
+and therefore glorys in it, <hi>Wo is me that I ſojourn in</hi> Me<g ref="char:EOLhyphen"/>ſech,
+<hi>and live in the black Tents of</hi> Kedar, but joys in hope that the
+Badger-skins of <hi>Kedar,</hi> ſhall one day be changed into the Purple
+Curtains of <hi>Solomon.</hi> 
+                  <note place="margin">
+                     <hi>Songs</hi> 1.5.</note> The Church both
+muſt and may have ſome ſociety with thorny perſons with ſowr tempers,
+as well as ſinful natures, not one<g ref="char:EOLhyphen"/>ly <pb n="51" facs="tcp:59291:28"/>originally wicked
+but of ſharp and contentious ſpirits.</p>
+               <p>A ſweet temper mixt with holi<g ref="char:EOLhyphen"/>neſs makes grace more
+beautiful, eſpecially when planted in the midſt of thorns. Who would expect
+ſuch a beautiful Lilly as <hi>Abigail</hi> by the ſides of a Churliſh
+<hi>Nabal,</hi> or a meek <hi>David</hi> near a taunting <hi>Mi<g ref="char:EOLhyphen"/>chol?</hi>
+Thorns are the more uncome<g ref="char:EOLhyphen"/>ly, and the Lillies much more de<g ref="char:EOLhyphen"/>ſireable.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Q </seg>
+                  </label> Q. <hi>But how ſhall a Saint behave
+himſelf among ſuch ruggid and pierc<g ref="char:EOLhyphen"/>ing spirits?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A </seg>
+                  </label>
+                  <hi>A.</hi> 1. With holy caution, when thorns
+be ſo near, remember how ſoon they may prick, Saints muſt take heed of
+paſſive offence: Not to take it unkindly, as well as not to provoke.</p>
+               <p>Briars are touchy things and act their nature, let them alone to
+the Juniper Coals of Magiſtrates, 
+<note place="margin">
+                     <hi>Pſ.</hi> 120.4.</note> or fire from
+Heaven as they live unfruit<g ref="char:EOLhyphen"/>ful and undeſired, ſo they uſually dy
+unlamented: No man is any farther troubled at a Dog when he ſnarles or bites,
+then to avoid his curriſh <pb n="52" facs="tcp:59291:29"/>temper, who expects from an
+Aſs but rude braying; from a Horſe but ſurly kicks; from a Swine, but
+mire and grunting; or from Thorns, but ſcratches. Stand out of their way as
+much as poſſible, and let ſuch beaſts bite and fight and ſcratch
+together, 
+<note place="margin">
+                     <hi>Pſ.</hi> 16.3.</note> 
+                  <hi>let thy
+delight be among the excellent that are in the earth. The law of kindneſs
+governs the tongue and the law of meekneſs the heart of a Saint.</hi> 
+                  <note place="margin">
+                     <hi>Pro.</hi> 31.26. 1 <hi>Pet.</hi>
+3.4.</note>
+               </p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Gracious perſons ſhould behave
+themſelves inoffenſively, as there is beauty, ſo there's ſmoothneſs
+and le<g ref="char:EOLhyphen"/>nity in a Lilly. There's no leſs mercy then majeſty in the nature of
+holi<g ref="char:EOLhyphen"/>neſs. A Child of God dares not do that to a wicked man which he
+ſuf<g ref="char:EOLhyphen"/>fers from him. A Saint muſt ſhine with a winning converſation to
+the froward: 
+<note place="margin">1 <hi>Pet.</hi> 2.23. <hi>and</hi> 3.1.</note>
+If poſſible, anoint their ſharp prickles with the oil of a ſoft
+anſwer, that when they enter, this may convey a healing drop into the wound.
+Its ſaid of the Viper, that with his needle-teeth he drops from his head a
+yellow poyſonous liquor dipt in rage, that inflames the wound, 
+<pb n="53" facs="tcp:59291:29"/>let's pour in ſome Balm of <hi>Gilead,</hi> into the
+gauls and gaſhes of vene<g ref="char:EOLhyphen"/>mous ſpirits; 
+<note place="margin">
+                     <hi>Ecc.</hi> 10.4.</note> for healing
+apologies [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] comforts and ſweetens againſt great
+offences.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Patiently, knowing that thorns never
+ſcratch the Church but as they are moved and waved by the wind of divine
+providence. This is a Saints comfort though ſuch crook<g ref="char:EOLhyphen"/>ed thorns may rend the
+tender flow<g ref="char:EOLhyphen"/>er of his body, yet cannot hurt his root. 
+<note place="margin">
+                     <hi>Hoſe.</hi> 14.5.</note> 
+                  <hi>Though he
+grow like a ſmall lowly Lilly, yet his roots are like the Cedars of
+Lebanon.</hi> Ye never ſaw a Bramble ſcratching up the root of a Lilly; as
+he knows it not, ſo he can<g ref="char:EOLhyphen"/>not. A Saints faith in and union to Chriſt
+remains inviolable. Nay, many times, the pulling off his viſible flowers,
+makes this root the ſtrong<g ref="char:EOLhyphen"/>er.</p>
+               <p>O happy Church! O happy Saint! 
+<note place="margin">
+                     <hi>Ezek.</hi> 38.10.</note> No enemy can
+think a mali<g ref="char:EOLhyphen"/>cious thought, but 'tis foreſeen, con<g ref="char:EOLhyphen"/>ducted and often returned
+upon their own heads by an inviſible pow<g ref="char:EOLhyphen"/>er. Be patient, 
+<note place="margin">
+                     <hi>Pſ.</hi> 37.13.</note> 
+                  <hi>he ſees
+that their day is coming who has appointed it. <pb n="54" facs="tcp:59291:30"/>When the
+light of Iſrael ſhall be for a fire, 
+<note place="margin">
+                        <hi>Iſ.</hi> 10.17.</note> and his holy one
+for a flame, and it ſhall burn and devour the thorns and briars in one
+day.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Church is among thorns as an embleme of
+its Perſecutions, un<g ref="char:EOLhyphen"/>godly men are always <hi>(in promptu)</hi> ready for
+miſchief, though not <hi>(in aectu)</hi> continually vexing the Church of
+Chriſt: every wicked man has a Bramble in his heart, and ſometimes hangs
+out at his mouth in bitter taunts. 
+<note place="margin">
+                     <hi>Gal.</hi> 4.29.</note> 
+                  <hi>The Son of the
+Bond woman will perſecute him that is born after the Spirit.</hi> The
+Nightingale ſings with a thorn at her breaſt by night, though ſhe ſees
+it not always, yet may ſometimes feel it<g ref="char:punc">▪</g> Its vain for the Church to
+promiſe ſelf-ſecurity in a Land of Scorpions. Let the wind blow from any
+corner either of Paganiſme or Hereſie: the ſtorms will impetuouſly
+claſh the thorns up<g ref="char:EOLhyphen"/>on the Lillies, and the Churches ſides receive many a
+gaſh. She hath bin often taught wiſdom from the Briars and Thorns of the
+Wilder<g ref="char:EOLhyphen"/>neſs. 
+<note place="margin">
+                     <hi>Jud.</hi> 8.16.</note> But here our thorns
+are the malepert daughters of <hi>Jeruſalem.</hi> 
+                  <pb n="55" facs="tcp:59291:30"/>Such as
+grow in Gardens are the worſt, becauſe the ranker ſoile breeds the
+ſtrongeſt prickles. The ſharpeſt Perſecutions pierce the Church from
+the daughters of for<g ref="char:EOLhyphen"/>mal <hi>Jeruſalem;</hi> 
+                  <note place="margin">
+                     <hi>Gal.</hi> 4.25.</note> as may appear by
+the <hi>Jewiſh, Arian,</hi> and Popiſh Ty<g ref="char:EOLhyphen"/>rannies over the Spouſe of
+Chriſt. Mark an Apoſtate <hi>Julian,</hi> that ſcoffs and taunts moſt
+bitterly againſt the Church, according to that old ſaying, <hi>Omnis
+apoſtata oſor ſui ordi<g ref="char:EOLhyphen"/>nis.</hi> Every Apoſtate hates the party from
+which they declined, and be<g ref="char:EOLhyphen"/>come of all Perſecutors the moſt cruel and
+barbarous. Thorns that are nigheſt by education, produce the ſharpeſt
+tryals, as the Pſalmiſt Prophecied in the Perſon of Chriſt, 
+<note place="margin">
+                     <hi>Pſ.</hi> 41.9.</note> 
+                  <hi>My familiar
+friend hath lift up his heel againſt me,</hi> 
+                  <note place="margin">
+                     <hi>Zac.</hi> 13.6.</note> with which the
+Pro<g ref="char:EOLhyphen"/>phet accords, <hi>Theſe are the wounds received in the houſe of my
+friends, 
+<note place="margin">
+                        <hi>Song.</hi> 1.6.</note> My Mothers Children
+are angry with me.</hi> The ſweeteſt wine makes the ſhar<g ref="char:EOLhyphen"/>peſt Vinegar.
+The neareſt Relations the moſt bitter conflicts, who ought to yield the
+moſt tender embraces. <hi>Bernard</hi> obſerves <hi>they had not God to 
+<note place="margin">Bern, <hi>ib.</hi>
+                     </note> 
+                     <pb n="56" facs="tcp:59291:31"/>their Father, but the Devil, though they boaſted of their formal
+Mother.</hi> A cruel Mother that milks out poy<g ref="char:EOLhyphen"/>ſon and ſpits venome in the
+face of her Children, pretends the hony of peace and diſcipline, and mixes
+the gall of pride, and flings out fire<g ref="char:EOLhyphen"/>brands.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. This Song preſents but <hi>one</hi>
+Lilly among many thorns, <hi>my dove</hi> ſays Chriſt, <hi>my undefiled is
+but one,</hi> ther's but one Spouſe, one Bride of Chriſt.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>One</hi> to ſhew the paucity of
+true Believers, as to the multitude of ungodly perſons, hypocrites and
+ſormal Profeſſors. Briars multi<g ref="char:EOLhyphen"/>ply vaſtly, the vory tops of Bram<g ref="char:EOLhyphen"/>bles
+will ſhoot down and take root in the neighbouring mould. The heads and hearts
+of the wicked run in the earth to a vaſt extent, but a Lilly never. Feracious
+and fruit<g ref="char:EOLhyphen"/>ful is the nature of ſin and ſinners. How many Families fill'd
+with un<g ref="char:EOLhyphen"/>holy perſons, ſcarce a Lilly to be ſound. How few true Saints in
+City or Country: As the Prophet ſpeaks of the Berries of an Olive<g ref="char:EOLhyphen"/>tree, 
+<pb n="57" facs="tcp:59291:31"/>
+                  <hi>one of a City or two of a Tribe to come to Zion.</hi> 
+                  <note place="margin">
+                     <hi>Iſ.</hi> 17.6. <hi>Jer.</hi>
+3.14.</note>
+               </p>
+               <p n="2">2. <hi>One</hi> to ſhew their unity, one root, though
+many flowors. The Church delights in oneneſs of heart and ſociety. Unity
+and verity cling together, falſity and diviſion are ve<g ref="char:EOLhyphen"/>ry numerous. The
+wicked ſeldome agree but in tearing and defacing the Church, <hi>Pilat</hi>
+and <hi>Herod</hi> joyn hands againſt Chriſt, and mark what a crew of
+enemies unite and conſe<g ref="char:EOLhyphen"/>derate againſt the Church, 
+<note place="margin">
+                     <hi>Pſ.</hi> 83.5, 6.</note> elſe there's
+little union among the wick<g ref="char:EOLhyphen"/>ed, becauſe pride (the principle of diviſion)
+<hi>compaſs them like a chain, 
+<note place="margin">
+                        <hi>Pſ.</hi> 73.6.</note> and therefore
+violence as a garment.</hi> Their enmity to the Church drags them into ſome
+temporary union as with an iron Chain. The Popiſh Synagogue brags of their
+general u<g ref="char:EOLhyphen"/>nion: 'Tis but a Spaniſh brag. For one of their Cardinals numbers
+a<g ref="char:EOLhyphen"/>bove three hundred differences of opinion in the Romiſh Church, 
+<note place="margin">Bp. Hall <hi>peace of</hi> Rome. Lond.
+1603.</note> and one of their Caſuiſts confeſses near threeſcore
+differences in the point of Confeſſion, and many more might be added of
+Popes and Counſels <pb n="58" facs="tcp:59291:32"/>and Frieries one againſt another.
+But the true Church hath an admi<g ref="char:EOLhyphen"/>rable union, one Lord, one ſaith, one
+baptiſm, <hi>Jeruſalem</hi> is a City compact together, and at unity
+with<g ref="char:EOLhyphen"/>in her ſelf. Though outward Pro<g ref="char:EOLhyphen"/>feſſors have ſome variance, yet in
+the grand ſundamental of ſree grace and ſalvation by faith alone the
+con<g ref="char:EOLhyphen"/>feſſions of the Reformed Churches rejoyce in a ſweet harmony, as to
+leſſer points, Oh that it were as it ought to be and ſhall be in the
+glo<g ref="char:EOLhyphen"/>rious times that are a coming.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>One,</hi> to ſhew what concerns
+the Church in general, is applica<g ref="char:EOLhyphen"/>ble to every member. Each pro<g ref="char:EOLhyphen"/>miſe and
+priviledge is univerſal and yet peculiar, to teach Believers that are in
+Covenant to lay hold on e<g ref="char:EOLhyphen"/>very promiſe, as if made to them a<g ref="char:EOLhyphen"/>lone. 
+<note place="margin">
+                     <hi>Rom.</hi> 23, 24.</note>
+                  <hi>Abraham</hi>'s promiſe is thine, for it was not written for his ſake
+a<g ref="char:EOLhyphen"/>lone but for us alſo if we believe. What was ſaid to <hi>Joſhua,</hi>
+was ſaid to thee, <hi>he will never leave thee nor forſake thee.</hi> 
+                  <note place="margin">
+                     <hi>Heb.</hi> 13.5. <hi>Tit.</hi> 1.4.
+<hi>Jude</hi> 3. <hi>Heb.</hi> 11.40.</note> Its common faith and common
+ſalvation, that they with<g ref="char:EOLhyphen"/>out us ſhould not be made perfect. 
+<pb n="59" facs="tcp:59291:32"/>The Church is a Dove that brings an Olive-branch to every
+<hi>Noah,</hi> within the Ark of Chriſt; the love of Chriſt is general to
+all, and ſingu<g ref="char:EOLhyphen"/>lar to each individual member. Each Saint hath an equal title
+to his love and all ſpiritual joys as the whole.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Lilly is not only encumbred with thorns
+but grows amongſt them. 'Tis not a dead flower cropt and flung there, but
+thrives and flouriſhes though hedg'd and hem'd with thorns. It ſends forth
+a gra<g ref="char:EOLhyphen"/>cious ſmell among noiſome briars, when planted there by Chriſt. Oh
+learn to adorn Religion in a barren ſoil amidſt troublous enemies, that's
+the glory of a Saint, to be a <hi>Joſeph,</hi> a <hi>Moſes</hi> in the
+midſt of <hi>Aegypt,</hi> an <hi>Obadiah</hi> at <hi>Samaria,</hi> a
+<hi>Nehemiah</hi> in <hi>Shuſhan,</hi> 
+                  <note place="margin">
+                     <hi>Luke</hi> 8.3.</note> a <hi>Joanna</hi> in
+<hi>Herod</hi>'s Court, In a thorny family among ſharp relations, in a
+prickly Land to ſcent like Heaven. To retaine growing innocency and
+tender-hearted-lenity <hi>in a crooked and per<g ref="char:EOLhyphen"/>verſe Nation.</hi> To
+beautifie and ſweeten the dunghil World. 
+<note place="margin">
+                     <hi>Phil.</hi> 21.15.</note> To 
+<pb n="60" facs="tcp:59291:33"/>luſtrate a wild Common full of bri<g ref="char:EOLhyphen"/>ars by the purity of
+holineſs. To pray for ſuch as prick their ſides, <hi>to do good to ſuch
+as hate and ſpitefully ſcratch them,</hi> a ſpirit of God and a ſpirit
+of glory reſts upon them, to be filled with the good will of him that dwelt
+and ſhined in the briar of <hi>Horeb:</hi> This is to be like our heavenly
+Father. 'Tis no great praiſe to be quiet in a Hermitage, and to fly like a
+Dove from <hi>Kedar,</hi> but in the midſt of buſineſs, relations and
+troubles, then ſhines the grace of a Saint.</p>
+               <p n="6">
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. The Churches Lilly often re<g ref="char:EOLhyphen"/>ceives
+protection from the thorns a<g ref="char:EOLhyphen"/>bout them. The ſame hand planted both thorns and
+lillies. The lilly within, and the thorns for protecti<g ref="char:EOLhyphen"/>on about it. The Briars
+often twiſt and twine themſelves into an arbor to deſend the Church.
+<hi>Saul</hi> and the <hi>Philiſtines</hi> encountring to<g ref="char:EOLhyphen"/>gether gave
+eſcape to <hi>David. Juli<g ref="char:EOLhyphen"/>an</hi> and the <hi>Perſians</hi> delivered the
+primitive Chriſtians. The <hi>Sadduces</hi> and <hi>Phariſees</hi> conflict
+reſcued <hi>Paul</hi> into the hands of <hi>Lyſias.</hi> 
+                  <note place="margin">
+                     <hi>Acts</hi> 23.7.</note> The 
+<pb n="61" facs="tcp:59291:33"/>Church often grows ſafely under the intangled counſels
+of infa<g ref="char:EOLhyphen"/>tuated <hi>Achitophels,</hi> and ſubtile <hi>Hamans.</hi>
+               </p>
+               <p>While they perplex and involve each other, 
+<note place="margin">
+                     <hi>Pſ.</hi> 2.16.</note> they become
+inſnared by the works of their own hands, and the Church ſings <hi>Higgaion
+Se<g ref="char:EOLhyphen"/>lah.</hi> The ſtate of <hi>Geneva</hi> is compa<g ref="char:EOLhyphen"/>red to a bone that 3
+ſturdy Maſtiffs ſtand by and ſnarl one at another, but dare not touch
+it. The Motto upon the Churches briars, may well be that of <hi>Scotland</hi>'s
+thiſtles, <hi>ne im<g ref="char:EOLhyphen"/>pune laceſſant:</hi> God fences his lillies about by
+the thorns of carnal Pro<g ref="char:EOLhyphen"/>feſſors, as well as the tall Brambles of
+<hi>Baſhan,</hi> the open and violent <hi>Pa<g ref="char:EOLhyphen"/>gan</hi> enemies. The multitudes
+of Formaliſts in and about the Church a wiſe God turns both to ſhadow and
+ſhelter; to ſhadow from the ſcorching Sun that would wither it, and to
+ſhelter it from the foot of Beaſts, the foot of pride and vio<g ref="char:EOLhyphen"/>lence that
+might tread it down. They are always good ſubjects, uſe<g ref="char:EOLhyphen"/>ful and painful and
+faithful in their ſtations. <hi>Joſeph</hi>'s ſrugal prudence 
+<pb n="62" facs="tcp:59291:34"/>gat him favour in the eye of <hi>Pha<g ref="char:EOLhyphen"/>raoh. Mordecai</hi>'s
+truſtineſs to the life of <hi>Ahaſuerus</hi> raiſed him to ho<g ref="char:EOLhyphen"/>nour, and
+<hi>Daniel</hi>'s ſagacity and ex<g ref="char:EOLhyphen"/>pertneſs in affairs, was a notable ſtep
+to his perſonal honour, his further advancement in the riſing
+<hi>Perſian</hi> Court, and a return for the Church of God out of
+<hi>Babylon.</hi>
+               </p>
+               <p>Let's deſcend to apply, the Uſe is two-fold, to the thorns
+and lil<g ref="char:EOLhyphen"/>lies.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> 1. To the Thorns in ſome
+parti<g ref="char:EOLhyphen"/>culars.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Remember your vile original, what are
+you? but the curſed ſruit of the fall, whoſe bramble natures breed unkind
+and pricking ſpirits. God planted no thorns in Paradiſe. The ſtate of
+innocency knew no ſuch crooked tempers. 
+<note place="margin">
+                     <hi>Ecc.</hi> 7.29.</note> 
+                  <hi>He created man
+upright, but he ſought out many in<g ref="char:EOLhyphen"/>ventions.</hi>
+               </p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. To the Thorns among Lillies.</p>
+               <p>Moſt of the Worlds briars grow without any lillies among
+them<g ref="char:punc">▪</g> They live among Nettles, Hemlock and Henbane and other poyſonous
+Plants, ſtinging, and tearing, and <pb n="63" facs="tcp:59291:34"/>choaking one another, 
+<note place="margin">
+                     <hi>Tit.</hi> 3.3.</note> living in ma<g ref="char:EOLhyphen"/>lice
+and envy, hateful and hating one another, but remember you that have Lillies
+among you; their hu<g ref="char:EOLhyphen"/>mility, fragrancy, lenity, purity ſhould provoke you to
+holy emu<g ref="char:EOLhyphen"/>lation. They live peaceably by you, ſcratch them not. Happy thorns,
+did you know it; God would ſoon fold you up into bun<g ref="char:EOLhyphen"/>dles and deliver you to
+the ſurnace of his wrath, were it not for his Choſen among you, 
+<note place="margin">
+                     <hi>Mat.</hi> 13.30.</note> 
+                  <hi>Suffer them a
+while, let the Briars grow till the Harveſt,</hi> ſays our Lord, <hi>Then
+ſhall his Angels gather out of his King<g ref="char:EOLhyphen"/>dom, 
+<note place="margin">
+                        <hi>v.</hi> 41.</note> all things that offend
+and them which do iniquity and cast them into a furnace of fire; there ſhall
+be wail<g ref="char:EOLhyphen"/>ing and gnaſhing of teeth.</hi>
+               </p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Let wicked perſecuting thorns
+conſider their end. 
+<note place="margin">
+                     <hi>Heb.</hi> 6.8.</note> 
+                  <hi>That earth that
+beareth thorns and briars is rejected and is nigh unto curſing, whoſe end
+is to be burnt.</hi> Unſerviceable, unpro<g ref="char:EOLhyphen"/>fitable wretches cumber the ground,
+ſuck away the juice from Gods Plants, unfit for building, and injuri<g ref="char:EOLhyphen"/>ous,
+that which their prickly venome <pb n="64" facs="tcp:59291:35"/>heat and infeſt the hands
+that touch them. Take heed of perſecuting the meek and humble Lillies.
+There's no one ſin more criminal and provoking in the ſight of God. He
+ordains his arrows againſt the Perſecutors and dooms them to e<g ref="char:EOLhyphen"/>ternal fire.
+
+<note place="margin">
+                     <hi>Pſ.</hi> 7.13.</note> When once
+perſons fall to that ſin, 
+<note place="margin">
+                     <hi>Pſ.</hi> 58.9.</note> God maketh way and
+room for his wrath. <hi>Before the pots can feel the thorns</hi> &amp;c. a dark
+place but ſharp againſt Gods enemies: <hi>Arias</hi> and
+<hi>Glaſſius</hi> tranſlate it, <hi>an<g ref="char:EOLhyphen"/>tequam ſpinae intelligant
+rhamnum,</hi> &amp;c. <hi>Before the Thorns apprehend a Bramble,</hi> an
+elegant metaphor from the growth of rational creatures. Before the young tender
+thorns ſhall ariſe to the capacity of a great bramble to do more
+miſchief. The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the plural maſculine ſignifies
+thorns, and the <hi>Targum</hi> gloſſes the Text thus, while they are
+tender and green,: 
+<note place="margin">
+                     <hi>Iſa.</hi> 54.13. <hi>Eccl.</hi>
+7.8.</note> while in their youth and vigour, as Husband<g ref="char:EOLhyphen"/>men cut down thorns
+before they grow rampant, ſo will the Lord tear off wicked Perſecutors with
+the whirlwind and burn them with <pb n="65" facs="tcp:59291:35"/>the fire of his wrath
+before they grow old, withered and dry, while yet in the ſap and ſtrength,
+while they are lively and flouriſhing. The deſign of the Pſalmiſt
+expreſſes the wrath of God againſt his enemies before they ſhall
+finiſh their purpo<g ref="char:EOLhyphen"/>ſes to bring utter deſtruction to the Congregation of
+the juſt.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> To the Lillies themſelves.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Reſemble your heavenly pat<g ref="char:EOLhyphen"/>tern.
+Take heed of moroſity, you never found a thorn in the root, leaf or flower of
+a lilly, but what was thruſt in by a Briar, it agrees not to the meek and
+gentle na<g ref="char:EOLhyphen"/>ture of holineſs. Pride and imperi<g ref="char:EOLhyphen"/>ouſneſs of ſpirit is
+contrary to the humility of a Lilly, ſtiffneſs and per<g ref="char:EOLhyphen"/>verſneſs are
+unſuitable to the flexi<g ref="char:EOLhyphen"/>ble temper of that lovely plant. Drooping and
+deſponding unbe<g ref="char:EOLhyphen"/>comes the erect and brisk aſpect of its flower. Saints
+ſhould labour to joy in the Lord always. Study for ſuch innocency,
+mildneſs, winning, ingenious tempers, and candour of ſpirit as may
+ſilence the ignorance of fooliſh men, that by holy and hea<g ref="char:EOLhyphen"/>venly 
+<pb n="66" facs="tcp:59291:36"/>frames of heart and life they may convince the briars that
+tear them of their fiery, unrighteous ſharpneſs. Saints muſt ſhew a
+bet<g ref="char:EOLhyphen"/>ter ſpirit dwelling in them, then the world knows off, ſweet thoughts
+iſ<g ref="char:EOLhyphen"/>ſuing into courteous and affable words; ſmelling fragrantly of
+hea<g ref="char:EOLhyphen"/>vens influence, and the dews of <hi>Zion</hi> moiſtning their lovely
+hearts with a converſation ſo amiable as may glorifie their heaven-born
+race that all about them may delight to come within them, to taſte of their
+delicious ſpirits as if they dwelt in a garden of Pomegranats. 
+<note place="margin">
+                     <hi>Song</hi> 4.13.</note>
+               </p>
+               <p>A Lilly is a tractable Plant, a briar is of a ſullen,
+churliſh, rough, Nabal-like ſpirit. Wicked mens tempers are commonly like
+nettles and thorns thruſt away that cannot be taken with hands, 
+<note place="margin">2 <hi>Sam.</hi> 23.6.7.</note> he that
+touch<g ref="char:EOLhyphen"/>es them muſt be fenced with iron, and the ſtaff of a ſpear, and
+they ſhall be utterly burnt with fire in the ſame place, not to be handled
+without hedgers gloves, without guards and fences, but ſo muſt not Saints,
+yet, take heed of offences <pb n="67" facs="tcp:59291:36"/>even to the Sons of
+<hi>Belial.</hi> A Lilly will not cannot hurt a thorn. You never heard a Sheep
+barking, at a Dog, or ſaw a Dove fly after a Bird of Prey. A Saint muſt not
+be of a ſturdy, dogged, proud, rapaci<g ref="char:EOLhyphen"/>ous inſolent and revengeful temper,
+but commit themſelves to God, <hi>For Vengeance is mine ſaith the Lord, 
+<note place="margin">
+                        <hi>Rom.</hi> 12.9.</note> I'll repay
+it.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Q </seg>
+                  </label>
+                  <hi>Q.</hi> But may not a Saint ſome<g ref="char:EOLhyphen"/>times
+uſe the prick of reproof?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A </seg>
+                  </label>
+                  <hi>A.</hi> When the neceſſity of their
+calling, ſtation and relation requires it, 'tis their duty. 
+<note place="margin">
+                     <hi>Lev.</hi> 19.17.</note> 
+                  <hi>They muſt in
+no no wiſe hate their Brother in their heart, but ſhew their love by
+rebuking him, and not ſuffer ſin upon him.</hi> But, 
+<note place="margin">
+                     <hi>Pro.</hi> 15.12.</note> 
+                  <hi>if he be a
+ſcorner he'll never love his reprover, neither will he go unto the
+wiſe,</hi> but ſight and quarrel and backbite moſt venomouſly. 
+<note place="margin">
+                     <hi>Pro.</hi> 9.7.</note> 
+                  <hi>He that
+reproveth a ſcorner gets ſhame and blots and hatred.</hi> Therefore
+remember the ſphere of thy ſtation and go no further. Thorns are al<g ref="char:EOLhyphen"/>ways
+ſcratching and cenſuring Saints for reproof though bound in duty, and
+though never ſo mild, where<g ref="char:EOLhyphen"/>fore <pb n="68" facs="tcp:59291:37"/>let the Lillies
+whiteneſs, pu<g ref="char:EOLhyphen"/>rity and humility be a ſilent ſtand<g ref="char:EOLhyphen"/>ing reproof againſt
+their neighbour<g ref="char:EOLhyphen"/>ing briars.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Do you belong to this heaven<g ref="char:EOLhyphen"/>ly
+Plant? are you like to Chriſt? are ye his lillies indeed? [<hi>Let</hi>'s
+<hi>try</hi>] can you bear their prickly thorns with meekneſs of patience. A
+good nature is ſeen more in bear<g ref="char:EOLhyphen"/>ing and paſſing by injuries that might
+provoke a nettling temper, then in beſtowing of benefits. Will ye pretend to
+a lilly and cant bear a prick in your good name for Chriſt, nor a thorn in
+your liberty for the Goſpel ſake, nor a ſcratch in your purſes for pure
+worſhip and the honourable name of the great Lillie of the Vallies, what
+conformity bear we to Chriſt? The Head of the Church was girt and gored with
+a Crown of thorns for us, and muſt not the Churches Sides expect the like,
+<hi>Delicatus es Christi<g ref="char:EOLhyphen"/>ane</hi> &amp;c. ſaid <hi>Jerome, thou art too
+dainty,</hi> that muſt be Crowned with roſes here and glory hereafter:
+what, ſwim in a River of oil, into <pb n="69" facs="tcp:59291:37"/>the river of
+Paradiſe; no, no! <hi>Ca<g ref="char:EOLhyphen"/>naanites</hi> will be thorns in your ſides till ye
+come to that <hi>Canaan</hi> a<g ref="char:EOLhyphen"/>bove. Deceive not your ſelves, ſcandals at
+the Croſs make for<g ref="char:EOLhyphen"/>maliſts ſtumble into Apoſtacy. A great
+<hi>Roman</hi> Emperor tryed his Courtiers and State Officers by Proclamation,
+<hi>who would renounce Chriſtianity,</hi> to prove their conſtan<g ref="char:EOLhyphen"/>cy, and
+ſuch who for flattery or ſear fled back from the truth, he turned out of
+their places, telling them, <hi>that ſuch who were falſe to their Saviour,
+would never be true to their Emperor.</hi> Our great Lord and King of the
+Church ſometimes tries whether we will ſuffer thorns in our comforts,
+rather then in our conſciences. Turning times are try<g ref="char:EOLhyphen"/>ing times.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Pray for the dews of heaven<g ref="char:EOLhyphen"/>ly grace
+to fall like Orient Pearls upon your lillies. No matter what briars among us,
+ſo heavens influ<g ref="char:EOLhyphen"/>ences ſhowr down upon us. What need we beſo much
+concerned for a ſcratch, if a Balſam drop from Heaven preſently cure it? 
+<note place="margin">
+                     <hi>Pſ.</hi> 94, 19.</note> If mul<g ref="char:EOLhyphen"/>titudes 
+<pb n="70" facs="tcp:59291:38"/>of thoughts ramble and tum<g ref="char:EOLhyphen"/>ble within us, let divine
+comforts delight our ſouls: a rare word in the Hebrew taken from the
+ſolaces, 
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> dancings,
+dandlings, ſingings of ten<g ref="char:EOLhyphen"/>der Mothers to their froward and ſretful
+Children. If thou canſt find and feel God to be in Cove<g ref="char:EOLhyphen"/>nant with thee, and
+taking thee in arms and cheriſhing thee on the knees of his affection like a
+Father, what matter what the ſcullions in the Kitchin, and wicked men the
+rods of his wrath, the Hang-men and Executioners of Divine Judg<g ref="char:EOLhyphen"/>ments in the
+earth, be they never ſo great, ſpeak and twit againſt thee thou knoweſt
+thy Fathers love is ſo<g ref="char:EOLhyphen"/>lid and permanent, though by an affliction he chide
+for a fault, yet his heart is with thee, 
+<note place="margin">
+                     <hi>Joh.</hi> 14.3.17.24.</note> he'll never
+leave thee till he bring thee to him<g ref="char:EOLhyphen"/>ſelf, and to the high inheritance. Let
+all the Devils in Hell fling their ragged firebrands at thee, make but a tuſh
+of it in the name of the Fa<g ref="char:EOLhyphen"/>ther of mercies, they can't hurt thee. Pray for the
+gentle <hi>Zephyrus,</hi> the ſweet breathings of Gods Spirit 
+<pb n="71" facs="tcp:59291:38"/>to flow down and invigorate your Beds of Spices. 
+<note place="margin">
+                     <hi>Song</hi> 4.16.</note>
+               </p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. Care not what the World counts, If
+God pronounce you to be his Lillies. Labour to be more eminently what God
+ſtyles you, for what he loves you, and for what the World hates you: 
+<note place="margin">
+                     <hi>John</hi> 15.18.</note> 
+                  <hi>If the World
+hate you,</hi> ſaies our Lord, <hi>ye know that it hated me before it hated
+you, If ye were of the World, the World would love its own, but becauſe ye
+are not of the world, but I have cho<g ref="char:EOLhyphen"/>ſen you out of the world, therefore the
+World hateth you.</hi> In his heavenly prayer our Lord alſo addreſſeth
+thus to the Father; 
+<note place="margin">
+                     <hi>John</hi> 17.14.</note> 
+                  <hi>I have given
+them thy word and the World hath ha<g ref="char:EOLhyphen"/>ted them, becauſe they are not of the
+world, even as I am not of the world.</hi> Diſgrace from the world, let it
+arm you from going back, and let holy emulation edge you forward. <hi>Love not
+the world, nor the things of this world,</hi> the childiſh faſhion, the
+apiſh attire, the vain pomp and gliſt<g ref="char:EOLhyphen"/>ering gewgaws, the tickling and
+ſoul-alienating pleaſures of this tranſient and periſhing life. Be
+ſolid <pb n="72" facs="tcp:59291:39"/>and ſerious perſons, let your af<g ref="char:EOLhyphen"/>fections be
+riſen with Chriſt to the pleaſures and treaſures that are a<g ref="char:EOLhyphen"/>bove. 
+<note place="margin">
+                     <hi>Col.</hi> 3.1.</note>
+               </p>
+               <p n="5">
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Take heed of the thorns with<g ref="char:EOLhyphen"/>in, more
+then them without. While your ſoul tabernacles in fleſh, it dwells in a
+Thicket of thorns, ſcarce ſees Heaven but through Crannies. <hi>Paul</hi>
+had this thorn, 
+<note place="margin">2 <hi>Cor.</hi> 12.7.</note> 
+                  <hi>a thorn
+given,</hi> but it bore roſes at laſt, His ſuffer<g ref="char:EOLhyphen"/>ings incenſed him to
+fight <hi>the good fight of faith</hi> the more couragiouſly.</p>
+               <p>O the piercing thorns of temp<g ref="char:EOLhyphen"/>tation that annoy the choiceſt
+Saints! he mourns more intenſely for the thorns at his heart, then thoſe at
+his feet. He cuts down the former, but they grow again, <hi>Hinc ille
+lachrymae,</hi> hence his con<g ref="char:EOLhyphen"/>tinual ſpring of tears; the others without him
+he tramples down va<g ref="char:EOLhyphen"/>liantly. Worldly cares, fiery try<g ref="char:EOLhyphen"/>als, dark deſertions
+that touch his heart, theſe exerciſe his ſaith and patience. But O the
+fearful Bram<g ref="char:EOLhyphen"/>ble of Original luſt, a bramble like the Oakes in
+<hi>Baſhan</hi> as big as the Waſte of his ſoul. Here he 
+<pb n="73" facs="tcp:59291:39"/>lays on with the ax of Repentance every day, and makes the
+Chips to fly, till death help him to fetch the killing ſtroke upon all his
+deadly enemies. He ſweats and pants till he gets the Victory.</p>
+               <p n="6">
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Be very ſolicitous to keep your
+ſelves from the thorns with<g ref="char:EOLhyphen"/>out. To live holy, and ward off wicked mens blows
+with all pru<g ref="char:EOLhyphen"/>dence conſiſtent with confeſſion of truth and the name of
+Chriſt, 
+<note place="margin">
+                     <hi>Col.</hi> 4.5.</note> 
+                  <hi>walk in wiſdom
+toward them that are without; let your speech be alway with grace, ſeaſoned
+with Salt. If your ſalt be unſavoury, wherewith</hi> (ſays our Lord)
+<hi>ſhall it be ſeaſoned.</hi> A violent calcining fire takes away much
+of the grateful ſavour of ſalt. Take heed of fiery tryals that are to try
+them that dwell upon the earth; <hi>If ye draw back, 
+<note place="margin">
+                        <hi>Heb.</hi> 10.38.</note> my ſoul</hi>
+(ſaith God) <hi>ſhall have no pleaſure in you,</hi> a dreadful ſaying, 
+<note place="margin">
+                     <hi>Hoſea</hi> 8.8.</note> to be like
+<hi>Iſrael</hi>'s veſſel wherein there's no pleaſure. 
+<note place="margin">Hiero<g ref="char:EOLhyphen"/>nym. <hi>in loc.</hi>
+                  </note>
+                  <hi>Immundum vas ſeu inutile</hi> &amp;c. <hi>quo ad projicienda ſtercora
+uti ſobemus.</hi> a veſſel made for the requiſites of nature to be 
+<pb n="74" facs="tcp:59291:40"/>fill'd with things unſeemly: let Saints ſtudy to be
+holy and uſeful and like<g ref="char:EOLhyphen"/>wiſe to be careful and watchful a<g ref="char:EOLhyphen"/>gainſt the
+tinctures and temptations of a prophane World. A Saint muſt always carry
+about him a dove-like heart and ſometimes uſe the nimble ſparkling eye of
+the Ser<g ref="char:EOLhyphen"/>pent to guard his dove-like inno<g ref="char:EOLhyphen"/>cency. <hi>Spina poena eſt,</hi>
+thorns will be afflictive. To live near them and not to be hurt is the fruit of
+divine grace and power, but 'tis uſually connext with our uſe of holy
+wiſdom towards them. Per<g ref="char:EOLhyphen"/>ſecutions are oftentimes chaſtiſe<g ref="char:EOLhyphen"/>ments for
+ſin, and preparations for glory. Though a fruit of the fall, yet they become
+medicinal to a Saint; his troubles being his comforts. Boyſterous winds hurry
+a Ship to its haven. Dangerous diſeaſes of<g ref="char:EOLhyphen"/>ten ferment the bloud into a
+puri<g ref="char:EOLhyphen"/>ty for more proſperous health. The poiſon of ſin mingles the po<g ref="char:EOLhyphen"/>tion
+of repentance. 
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> evi<g ref="char:EOLhyphen"/>pera.</note>
+                  <hi>Andromachus</hi>'s <hi>Treakle</hi> compoſed of a <hi>Viper</hi> cures
+its venome. The fleſh of a Scorpi<g ref="char:EOLhyphen"/>on applyed to the place affected, 
+<pb n="75" facs="tcp:59291:40"/>healed <hi>Olearius</hi> of his pain and tor<g ref="char:EOLhyphen"/>ment. 
+<note place="margin">
+                     <hi>Olear. Tra<g ref="char:EOLhyphen"/>vels</hi> p. 195</note> A
+Saints inward bitings from Satan are cured by the Dragons bloud ſlain by the
+Spear of Chriſt. 
+<note place="margin">VVende<g ref="char:EOLhyphen"/>lin de nilo <hi>C.</hi> 16. <hi>G.</hi>
+§. 11.</note> Its ſaid that <hi>Crocodile</hi>'s tears pierce the skull
+of man, I am ſure that a Saints penitent tears diſſolve the head and all
+the inventions of Sa<g ref="char:EOLhyphen"/>tan. To end; a gracious ſoul may gather the flowers of
+aſſurance from the ſharp prickles of tempta<g ref="char:EOLhyphen"/>tion and perſecution. He
+ſucks much hony of the thorns that mo<g ref="char:EOLhyphen"/>leſt and afflict him.</p>
+               <p n="7">
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. Aſſociate with heavenly Lillies.
+All the World beſides are but thorns. The common Daughters of
+<hi>Jeruſalem</hi> are lillies in ſhew, but have thorns in heart, and
+ſome<g ref="char:EOLhyphen"/>times grow out from the midſt of their ſeeming flowers. They'll
+prick ſometimes as peeviſhly and perverſely as open wicked men, and as
+the Daughters of <hi>Babylon.</hi> What delight can a Saint take in their vain
+converſe, their pride and worldlineſs? Many ſtrange Profeſ<g ref="char:EOLhyphen"/>ſors
+ſtart up now adays that bear the leaves of their godly Fathers 
+<pb n="76" facs="tcp:59291:41"/>but not their fruit, they go for Daughters of
+<hi>Zion,</hi> but are <hi>haugh<g ref="char:EOLhyphen"/>ty, 
+<note place="margin">
+                        <hi>Iſ</hi> 3.16.</note> walk with
+ſtretched forth necks, and wanton eyes, mincing or tripping nicely as they
+go, and making a tinkl<g ref="char:EOLhyphen"/>ing with their feet. Crepitantibus Calceis &amp;
+Crepidis inſiſtentes,</hi> 
+                  <note place="margin">A Lap.</note> With their flaps and ſlaps
+proclaiming their levity and folly, but their hearts are little worth, 
+<note place="margin">
+                     <hi>Pro.</hi> 10.20.</note> 
+                  <hi>and their
+tongues like Serpents fork'd with en<g ref="char:EOLhyphen"/>mity,</hi> and ſharp like crooked thorns
+againſt the ways of holineſs, 
+<note place="margin">
+                     <hi>Song</hi> 6.2.</note> 
+                  <hi>let's depart
+from them and go with our Be<g ref="char:EOLhyphen"/>loved into the Gardens, to the beds of Spices to
+feed in the Gardens and to ga<g ref="char:EOLhyphen"/>ther Lillies,</hi> where Chriſt has his ſets
+and knots of Lillies, has pure and holy worſhiping Churches, there let's
+aſſemble, though bri<g ref="char:EOLhyphen"/>ars be near, yet Chriſt is nigher.</p>
+               <p n="8">
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> 8. Long for Heaven. Send up the fragrant
+odours of your pray<g ref="char:EOLhyphen"/>ers into Paradiſe where no bleak wind, no chilling
+ſhowrs, no pierc<g ref="char:EOLhyphen"/>ing thorns ſhall trouble more. Let theſe
+Wilderneſs-prickles ſharpen thy pace towards Heaven, 
+<note place="margin">
+                     <hi>Eph.</hi> 6.15.</note> 
+                  <hi>being well
+ſhod with the preparation of the <pb n="77" facs="tcp:59291:41"/>Goſpel of peace,</hi>
+yet leap nimbly through them and haſten from them. Cry out of the Valley, the
+<hi>Settims,</hi> the ſharp Buſhes in the Plains of <hi>Moab,</hi> and pant
+for <hi>Lebanon</hi> where thy Lilly ſhall be planted under the true Vine and
+the Tree of Life; where thorns in duties, re<g ref="char:EOLhyphen"/>lations, enjoyments ſhall make
+thy ſpirit to bleed no more. Where thorns from Devils and a wicked World
+ſhall affront and gaſh no more, where thorns from our own hearts or others
+tongues ſhall wound no more, whether from the Daughters of <hi>Gath,</hi> or
+<hi>Jeruſalem,</hi> 
+                  <note place="margin">2 <hi>Sam.</hi> 1.20.</note> from outragious
+wickedneſs, or per<g ref="char:EOLhyphen"/>verſe formaliſme ſhall touch or prick or puniſh
+the Church no more.</p>
+               <p>O pray for that Sabbath of reſt, that <hi>Jubilee</hi> of joy,
+when from all thy labours, ſorrows and tears thou ſhalt reſt in the
+boſome of eternal love, when the furrows made by the torrent of tears in thy
+hol<g ref="char:EOLhyphen"/>low cheeks ſhall be fill'd up by the Balm of <hi>Gilead,</hi> when all
+thy wounds and ſcarrs ſhall be bathed into ſmoothneſs and beautifully
+heal'd <pb n="78" facs="tcp:59291:42"/>in thoſe rivers of pleaſure that flow at the
+right hand of him that ſits upon the Throne, for ever<g ref="char:EOLhyphen"/>more.</p>
+               <p>I ſhould come now to the Se<g ref="char:EOLhyphen"/>cond branch of the Doctrine to
+ſet forth the love of Chriſt to his Church and each holy Soul while
+ſighing and groaning among the thorns of this Valley of <hi>Achor.</hi> 
+                  <note place="margin">Add.</note> whereof briefly and cloſe.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He forms holy ſighs and groans in
+<hi>thy</hi> Spirit by <hi>his</hi> Spirit. He ſends his dove into our
+hearts, 
+<note place="margin">
+                     <hi>Ezek.</hi> 36.27.</note> and then we mourn
+like doves in the clefts of the rock of Ages. He puts his ſpirit within us,
+and then hearkens to the groanings of his own Spirit, 
+<note place="margin">
+                     <hi>Rom.</hi> 8.27. <hi>Song</hi> 2.14.</note>
+                  <hi>O my dove, let me hear thy voice,</hi> why? <hi>becauſe thy Counte<g ref="char:EOLhyphen"/>nance
+is comely: Non placet vox, ſi displiceat facies,</hi> 
+                  <note place="margin">Bern.</note> our face is comely in the beauty
+of his righteouſneſs, and therefore our voice is pleaſant through the
+melody of his Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Chriſt ſighs with thee. He
+mingles the tears of his Croſs with the tears of thy crucifiing afflicti<g ref="char:EOLhyphen"/>ons.
+<pb n="79" facs="tcp:59291:42"/>
+                  <hi>In all their affliction he is af<g ref="char:EOLhyphen"/>flicted.</hi> 
+                  <note place="margin">
+                     <hi>Iſ.</hi> 63.9.</note> The thorn never
+pricks the ſides of the Church, 
+<note place="margin">
+                     <hi>Zach</hi> 2.8.</note> but <hi>it touches
+the apple of his eye.</hi> Is this lilly parch'd with the Sun? <hi>Cor
+Chriſti aeſtuat,</hi> the heart of Chriſt is affect<g ref="char:EOLhyphen"/>ed with holy
+ſympathy. Is it blaſt<g ref="char:EOLhyphen"/>ed with Eaſt-winds? he comforts and relieves it by
+ſweet Weſtern Gales of his Spirit. Is it ſpotted and ſtained with dirt
+ſtruck up by the foot of Beaſts? he waſhes it clean in his own laver, our
+very hairs are numbred, 
+<note place="margin">
+                     <hi>Pſ.</hi> 56.8.</note> our tears
+bot<g ref="char:EOLhyphen"/>tled, our deſires known, our ſteps and wandrings are meaſured, our
+groans are not hid from him, our members are written in his Book that not a
+bone is broken but he ſets them again.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Chriſt appears graciouſly in time
+of diſtreſs; he came into the Church when the doors were ſhut for fear of
+the <hi>Jews,</hi> and breathed his peace upon them. He was with the Church in
+the Wilderneſs, he viſited the lillys in the thorny buſh, and conducted
+them &amp; planted them in the Land of <hi>Canaan.</hi> It was his <hi>hortus 
+<pb n="80" facs="tcp:59291:43"/>penſilis &amp; ambulatorius,</hi> he delighted in his
+walking Garden through the howling Deſarts of <hi>Arabia,</hi> the Type and
+Emblem of his Goſpel Church in all her ſcatterings and thirſty march<g ref="char:EOLhyphen"/>es,
+and will never forſake them till like conquering <hi>Joſhua</hi> he bring
+them to their appointed reſt. Nei<g ref="char:EOLhyphen"/>ther is there any of the leaſt of his
+beloved ones but he will vouchſafe a gracious ear to their petitions, 
+<note place="margin">
+                     <hi>Iſ.</hi> 40.41.63.9.4.</note> and carry
+them in his boſome as all the days of old.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> He delivers frequently, inceſ<g ref="char:EOLhyphen"/>ſantly,
+perſeveringly, he loves them to the end. 
+<note place="margin">
+                     <hi>Iſ.</hi> 43.3.</note> He <hi>gave Aegypt
+for their Ranſome, Aethiopia and Seba for them,</hi> This is matter of
+argu<g ref="char:EOLhyphen"/>ment in our prayer <hi>thou haſt deli<g ref="char:EOLhyphen"/>vered this people out of</hi>
+Aegypt <hi>un<g ref="char:EOLhyphen"/>til now.</hi> 
+                  <note place="margin">
+                     <hi>Numb.</hi> 14.19.</note> And what if we be
+not fit for mercy, he is always fit to ſhew it when heavenly wiſdom judges
+meet. The times of the Church are in the hands of a Father who conſults his
+own bowels and the expediency of his own glory. In that day when the deſign
+and de<g ref="char:EOLhyphen"/>crees of mercy, unite in accom<g ref="char:EOLhyphen"/>pliſhment, <pb n="81" facs="tcp:59291:43"/>he can
+form the hearts of men and faſhion them upon the wheel of Providence. Let
+none deſpond becauſe the Church is not prepared for approaching
+delive<g ref="char:EOLhyphen"/>rance. The Prophets are full of this encouragement that in ſuch a day
+he will powr out another ſpirit, and make all things fall in joint and to hit
+the mark of his appoint<g ref="char:EOLhyphen"/>ment. The time is haſtening and at the doors, that
+the Lord will powr out clean water upon his Sanct<g ref="char:EOLhyphen"/>uary <hi>he will do a new
+thing on the earth,</hi> now it ſhall ſpring forth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>nunc germinabit,</hi> 
+                  <note place="margin">
+                     <hi>Iſ.</hi> 43.19.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a manifeſt alluſion with that of <hi>Zachary, 
+<note place="margin">
+                        <hi>Zech.</hi> 3.8.6.12.</note> I will bring
+forth my Servant,</hi> [Zemach] <hi>the BRANCH,</hi> called by <hi>Luke</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Branch from on High: when the Beaſts of the field,
+the Dragons and Owls of the <hi>Gentile</hi> Wilderneſs ſhall honour me
+<hi>Then ſhall Zion bud forth and great ſhall be the glory of her Children,
+from the North, and from the Weſt, 
+<note place="margin">
+                        <hi>Iſ.</hi> 49.12.</note> and thoſe from
+the Land of</hi> Sinim. Which ſome as <hi>Arias</hi> and others, 
+<pb n="82" facs="tcp:59291:44"/>underſtand of <hi>China,</hi> but more likely of
+<hi>Sin</hi> or <hi>Peluſium</hi> by a trope for the Land of <hi>Aegypt,
+Sin</hi> being the great fortreſs at the en<g ref="char:EOLhyphen"/>trance of <hi>Aegypt,</hi> and
+South of the Land of <hi>Canaan.</hi>
+               </p>
+               <p n="5">
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. <hi>He is ſore displeaſed with
+the Heathen that are at eaſe.</hi> 
+                  <note place="margin">
+                     <hi>Zech.</hi> 1.15.</note> When Gods a little
+diſpleaſed, they leap like Lions from <hi>Baſhan</hi> upon the Church. 
+<note place="margin">
+                     <hi>Iſ.</hi> 47.6.37.29.</note> When God is
+wroth with his People for their unholineſs and defilements, <hi>they ſhew
+no mercy. But God will put a Hook in their noſe, and lead them back like
+beaſts into the Land of Slaughter, for Sacrifices in the Temples of their own
+Gods.</hi> Hea<g ref="char:EOLhyphen"/>then briars may flouriſh and ſpread their twins far and
+near, but when once they moleſt his Church <hi>they are nigh to burning.
+Pompey</hi> proſ<g ref="char:EOLhyphen"/>pered not after he ſtumbled in the Temple of
+<hi>Jeruſalem.</hi> Many and fatal inſtances occur in Hiſtory of Gods
+vindictive Juſtice upon his enemies, when once they laid hands upon the
+precious things of <hi>Zion. Diſcite justitiam moniti,</hi> &amp;c. learn to
+beware of <hi>Herod</hi>'s deſtiny, <pb n="83" facs="tcp:59291:44"/>ſmote by an Angel
+in the midſt of all his glory.</p>
+               <p n="6">
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Theſe Thorns never prick and vex
+the Church but by his permiſſi<g ref="char:EOLhyphen"/>on and guidance, and when he hath performed
+his work upon Mount <hi>Zion,</hi> 
+                  <note place="margin">
+                     <hi>Iſ.</hi> 13.12.</note> he will puniſh
+the fruit of their ſtout hearts, and the glory of their high looks. When the
+Peo<g ref="char:EOLhyphen"/>ple of <hi>Zion</hi> are meek and humble then they ſhall ariſe out of
+obſcu<g ref="char:EOLhyphen"/>rity, and ſhake of their duſt and Kings ſhall come to the glory
+of <hi>Zions</hi> riſing, 
+<note place="margin">
+                     <hi>Iſ.</hi> 60.3. Bern.</note>
+                  <hi>humiliatio parit humi<g ref="char:EOLhyphen"/>litatem, Sanctified humiliation brings advancing
+humility.</hi> All their thorns ſhall be conſecrated into <hi>ſweet
+bri<g ref="char:EOLhyphen"/>ars,</hi> and all their pricking vexations ſhall prove medicinal, like
+poti<g ref="char:EOLhyphen"/>ons made of the <hi>Carduus bendictus,</hi> the <hi>bleſſed
+thiſtle.</hi> The troubles of the Church both for time and mea<g ref="char:EOLhyphen"/>ſure are
+guided by her wiſe ad holy Husband, who hath charged the toſſing waves of
+the Sea, <hi>hitherto ſhall ye come and no further.</hi>
+               </p>
+               <p n="7">
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. He praiſes his Church and ſets
+off her beauty by the uncomeli<g ref="char:EOLhyphen"/>neſs of the adjoyning thorns. <hi>She 
+<pb n="84" facs="tcp:59291:45"/>is black but comely,</hi> ſcratcht but beautiful. A Dove
+begrim'd a<g ref="char:EOLhyphen"/>mong the Pots but a Dove ſtill. 
+<note place="margin">
+                     <hi>Song.</hi> 2.10.</note> 
+                  <hi>Ariſe my
+Dove, my love, my fair one, 
+<note place="margin">
+                        <hi>Song</hi> 1.5.</note> my joy, come
+away.</hi> The Tents of <hi>Kedar</hi> ſet a luſtre upon the Cur<g ref="char:EOLhyphen"/>tains of
+<hi>Solomon.</hi> A <hi>Jacob</hi> in <hi>La<g ref="char:EOLhyphen"/>ban</hi>'s Family, a
+<hi>Joſeph</hi> in <hi>Pharaoh</hi>'s, an <hi>Obadiah</hi> in
+<hi>Ahab</hi>'s, gives a per<g ref="char:EOLhyphen"/>fume to the place they dwell in. there's a wall of
+fire between the lillies and the thorns, 
+<note place="margin">
+                     <hi>Zach.</hi> 2.4.</note> to cheriſh the
+lillies and to conſume the thorns. There's a black ſide of the Cloud to
+dannt the <hi>Aegyptians,</hi> but a bright ſide to enlighten and com<g ref="char:EOLhyphen"/>fort
+<hi>Iſrael.</hi>
+               </p>
+               <p>Let not the Church be diſcoura<g ref="char:EOLhyphen"/>ged for Chriſt owns and loves
+her in the midſt of deformities, 
+<note place="margin">Inſer. 1.</note> imbe<g ref="char:EOLhyphen"/>cilities and
+conflicts. Though ſometimes weak and a little <hi>heady</hi> and conceited,
+'tis his beloved Spouſe ſtill, whom he intends to form and beautifie for
+himſelf. A tender father pitties his ſick and weakly Child, moſt of all.
+A gracious Husband compaſſionates his ſickly Spouſe eſpecially if
+ſick of love, <pb n="85" facs="tcp:59291:45"/>
+                  <hi>His left hand is under her head, 
+<note place="margin">
+                        <hi>Song</hi> 2.6.</note> and his right hand
+doth embrace her.</hi> A little pettiſhneſs and frowardneſs does not
+alienate his heart from her, if right in the main; his generous love winks at
+many things and par<g ref="char:EOLhyphen"/>dons all. Though the Moon have her ſpots, the Sun
+diſtains not to ſhine upon her, and though a Saint may have ſome
+fooliſhneſs, 
+<note place="margin">
+                     <hi>Pſ.</hi> 69.5.14.</note> yet God
+delivers him from draggling in the mire, and ſuffers him not to ſink</p>
+               <p>Uprightneſs may conſiſt with ma<g ref="char:EOLhyphen"/>ny imperfections. 
+<note place="margin">Infer. 2.</note> God takes his meaſures by
+ſincerity and not in<g ref="char:EOLhyphen"/>firmity, that's a Saints joy. He conſiders our
+tentations and knows our frame <hi>and remembers that we are but dust.</hi> 
+                  <note place="margin">
+                     <hi>Pſ.</hi> 103 14</note> Some
+frowardneſs and frettings in the midſt of inte<g ref="char:EOLhyphen"/>grity, nay a ſpark of
+grace is high<g ref="char:EOLhyphen"/>ly regarded though at firſt ſtruck from Heaven into an ocean
+of cor<g ref="char:EOLhyphen"/>ruption within us, its kindling and will be flaming. We have our
+coolings and our warmths, ſome beauty though ſome deformities, and the
+heart is all with God, if <pb n="86" facs="tcp:59291:46"/>the bent and tenour of the
+ſpirit be towards him, onely take heed leſt our weakneſſes ſhould
+eclipſe his praiſe, deſpond our ſpirits in holy duties, and indulging
+of touchy flaſhes ſhould habituate into fierce<g ref="char:EOLhyphen"/>neſs, and thereby become
+envious at our betters in grace, and at laſt droop and ſink into an
+uncomfor<g ref="char:EOLhyphen"/>table frame of ſpirit, and then cen<g ref="char:EOLhyphen"/>ſure and backbite others that
+faith<g ref="char:EOLhyphen"/>fully and meekly reprove us for our folly, and would reſtore us to a
+heavenly frame and communion with God.</p>
+               <p>Be ſenſible and meek under e<g ref="char:EOLhyphen"/>very tryal. 
+<note place="margin">Infer. 3.</note> Let croſſes crucifie the
+fleſh within thee, and let e<g ref="char:EOLhyphen"/>very affliction mortifie the body of ſin and
+death, and ſtill remem<g ref="char:EOLhyphen"/>ber thou art Chriſts Lilly, though diſtreſſed
+by manifold thorns. Keep in the royal highway to Hea<g ref="char:EOLhyphen"/>ven between fainting and
+confidence. He that faints, 
+<note place="margin">
+                     <hi>Prov.</hi> 24.10.</note> the ſtrength of
+his faith is ſmall. Nouriſh faith by Promiſes, they are the milk and hony
+of the Land of <hi>Canaan.</hi> Keep always ſome of theſe precious
+cor<g ref="char:EOLhyphen"/>dials <pb n="87" facs="tcp:59291:46"/>in the bottles of memory, &amp; be ware alſo of
+too much confidence &amp; ſelfconceit <hi>Qui ſe ſibi magiſtrum
+con<g ref="char:EOLhyphen"/>ſtituit ſtulto ſe diſcipulum ſubdit,</hi> 
+                  <note place="margin">Bern. <hi>Epiſt.</hi> 87.</note> a ſelf
+taught perſon has a fool to his Maſter.</p>
+               <p>The Church as far tranſcends the World as a pure unſpotted
+Lilly outſhines a crew of intricate thorns upon a cragged rock, 
+<note place="margin">Inſer. 4.</note> or as a garden of roſes
+in <hi>Sharon</hi> is more pleaſant then the curſed Mountains of
+<hi>Gilboa,</hi> unpaſſable by briars and brambles.</p>
+               <q>
+                  <l>Puniceis humilis quantum ſali<g ref="char:EOLhyphen"/>unca roſetis.</l> 
+                  <lg>
+                     <l>As ſragrant roſes prickly thorns excel </l>
+                     <l>Brambles and Myrtles yield no parallel.</l>
+                  </lg> 
+                  <note place="margin">
+                     <hi>Iſ.</hi> 55.13.</note>
+               </q>
+               <p>Let none value true Saints by ex<g ref="char:EOLhyphen"/>ternal grandeur, but their
+vertues and graces, humility ſweetneſs, peacefulneſs and innocency. Many
+Profeſſors are eſteemed for riches and titles, for gold rings and gawdy 
+<pb n="88" facs="tcp:59291:47"/>cloths: 
+<note place="margin">
+                     <hi>James</hi> 2.3.</note> 
+                  <hi>Sit here at my
+right hand,</hi> make room for a Silken Veſt and fine toyes upon an empty
+head and a barren heart. Oh how our eſti<g ref="char:EOLhyphen"/>mates ſtick in the mire! whom do
+you moſt prize and admire, a poor ſheep-skin Saint that ſtands his ground
+in Perſecution, 
+<note place="margin">
+                     <hi>Heb.</hi> 11.37.</note> or a proud Peacock
+that yelps at a Storme. <hi>Are ye not carnal and judges of evil thoughts,</hi>
+
+                  <note place="margin">
+                     <hi>James</hi> 2.4.</note> Since it appears
+not now what it is to be a true Son of God, but at that day it will be
+revealed, <hi>when we ſhall ſee him as he is.</hi> 
+                  <note place="margin">1 <hi>John</hi> 3.2. Infer. 5.</note>
+               </p>
+               <p>Let none ſtand amazed at the pa<g ref="char:EOLhyphen"/>geantry of falſe Churches,
+nor va<g ref="char:EOLhyphen"/>lue the Whore of <hi>Rome</hi> becauſe of her bravery. 
+<note place="margin">
+                     <hi>Rev.</hi> 18.16.</note> She's deckt with
+Pearles and precious ſtones, but ſmells ſtrong of <hi>Aegypt.</hi> All
+the Perſumes of <hi>Arabia</hi> can't hide or choak her ſtink. 'Tis not
+Lateran Muſick will conſecrate her Maſſes into audience, nor her
+incenſe pro<g ref="char:EOLhyphen"/>cure acceſs to the Throne of Grace, 
+<note place="margin">
+                     <hi>Amos</hi> 5.22.</note> 
+                  <hi>I will not
+ſmell ſays the Lord in your Solemn Aſſemblies. Take away the noiſe of
+your Songs, the melody of your Viols, let judgment run <pb n="89" facs="tcp:59291:47"/>down
+as waters and righteouſneſs like a mighty ſtream.</hi> I ſhall end with
+<hi>Bernard</hi> to <hi>Eugenius,</hi> the 4th. 
+<note place="margin">* Bern. <hi>de conſid. l.</hi> 1.
+<hi>f.</hi> 238.</note> 
+                  <hi>Plena eſt ambitioſis eccleſia, non eſt jam
+quod exhorreat in ſtudiis &amp; mo<g ref="char:EOLhyphen"/>litionibus ambitionis, non plus quam
+spelunca latronum in ſpoliis viato<g ref="char:EOLhyphen"/>rum.</hi> The Church (of <hi>Rome</hi>) is
+ſtufft with ambitious perſons, they tremble no more in the ſtudious
+endeavours after ambitious deſigns, then a den of Robbers at dividing the
+ſpoyls of innocent travellers. and then tells him to his face a<g ref="char:EOLhyphen"/>mong other
+ſmart but ſerious re<g ref="char:EOLhyphen"/>flections upon his Lordlineſs, [ 
+<note place="margin">† <hi>id. l.</hi> 3 <hi>f.</hi>
+240.</note> 
+                  <hi>prae<g ref="char:EOLhyphen"/>ſis ut proſis,</hi> &amp;c. <hi>ut dispenſes, non
+imperes</hi> &amp;c. <hi>Nullum tibi venenum nullum gladium plus formido, quam
+libidinem dominandi</hi>] govern to edification, act like a Servant, and
+Steward, not an Emperor, I dread no poyſon, no <hi>aſsaſſinate</hi>
+more fatal to you, then the luſt of domina<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Be not offended at the Church of Chriſt becauſe of her mean
+and troubleſome State. 
+<note place="margin">Inſer. 6.</note> What if the King of
+<hi>Zion</hi> come meek and low<g ref="char:EOLhyphen"/>ly, <pb n="90" facs="tcp:59291:48"/>
+                  <hi>riding upon an
+Aſs,</hi> 
+                  <note place="margin">
+                     <hi>Zech</hi> 9.9.</note> or his ho<g ref="char:EOLhyphen"/>ly
+Apoſtles walking on foot for the Converſion of Nations through the World,
+what if the ſhowrs of Hea<g ref="char:EOLhyphen"/>ven ſall upon the cheeks of the love<g ref="char:EOLhyphen"/>ly, lowly
+Lilly, and ſhe ſit weeping a<g ref="char:EOLhyphen"/>mong the briars, muſt true religion and pure
+worſhip be never courted but when the Sun ſhines? The way to
+<hi>Canaan</hi> lay through ſtones and rocks, 
+<note place="margin">
+                     <hi>Deut.</hi> 8.15</note> amidſt Lions and
+Tygers, a<g ref="char:EOLhyphen"/>mong Scorpions and fiery flying Ser<g ref="char:EOLhyphen"/>pents; true genuine
+<hi>Iſrael</hi> muſt through all, and never be appaled, diſmayed or dare
+to face about to <hi>Aegypt,</hi> of which the Lord hath ſaid <hi>ye ſhall
+return that way no more,</hi> 
+                  <note place="margin">
+                     <hi>Deut.</hi> 17.16.</note> If we ſtartle
+at the briars about the lillies, &amp; flinch for a few prickles <hi>we are not
+worthy of the Kingdom of Heaven.</hi> 
+                  <note place="margin">
+                     <hi>Mat.</hi> 10.37.</note> The troubles are
+but momentany, the glory eternal. They may hurt the fleſh, but cannot hinder
+the flight of the ſoul into the boſome of <hi>Abraham.</hi> Let not the
+Churches afflictions ob<g ref="char:EOLhyphen"/>ſtruct your aſſociating to her compa<g ref="char:EOLhyphen"/>ny which is
+paſſing under the conduct of her 2d <hi>Joſhua,</hi> 
+                  <note place="margin">
+                     <hi>Heb.</hi> 4.8.9.</note> into everlaſting
+reſt. Judge not her beauty, 'tis under a <pb n="91" facs="tcp:59291:48"/>mask, and though
+beſmeared by the ſoil of her malignant enemies, ſhe is all glorious
+within. 'Tis our igno<g ref="char:EOLhyphen"/>rance of the Churches beauty. A comely face muſt not be
+diſingeniou<g ref="char:EOLhyphen"/>ſly wip't by a malicious tongue, till the duſt and ſpots be
+waſh'd off and its aſpect clarified, nor a ſweet tem<g ref="char:EOLhyphen"/>per dropt upon
+becauſe of calumnies, before converſe does open it. 'Tis want of holineſs
+in moſt, and true love to it, 
+<note place="margin">1 <hi>John</hi> 2.10.</note> that cauſes
+ſtumbling at the holy ways of God.</p>
+               <p>Reſign your ſelves into <hi>his</hi> ſweet and ſtrong
+tuition, 
+<note place="margin">Inſer. 7.</note> who can incline the worſt
+of brambles to be a fence and ſecurity to his lillies; and the ſharper and
+ſtronger they are, the more offenſive to the Churches ene<g ref="char:EOLhyphen"/>mies. 
+<note place="margin">
+                     <hi>Iſ.</hi> 46.11.</note> 
+                  <hi>Cyrus</hi> a
+ravenous Bird from Eaſt God called to feaſt upon the ſacrifice of his
+wrath in the Land of <hi>Chaldea,</hi> to root up the briars of
+<hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> which had ſo greatly vexed and abuſed his beloved
+people. All Hiſto<g ref="char:EOLhyphen"/>ries yield notable inſtances of divine ſeverity
+againſt barbarous perſecu<g ref="char:EOLhyphen"/>tors when once they ſtretch out their hands
+againſt the Church, they are <pb n="92" facs="tcp:59291:49"/>quickly withered. To what
+fearful iſſues the inraged and infatuated in<g ref="char:EOLhyphen"/>ſtruments of Satan in the 10
+primi<g ref="char:EOLhyphen"/>tive Perſecutions were reduced, Eccleſiaſtick and Civil ſtory is
+very pregnant; let's endeavour with all ſincerity and ſedulity to lead
+lives un<g ref="char:EOLhyphen"/>blameable and keep Conſcience un<g ref="char:EOLhyphen"/>ſpotted before God and man, and
+arm our ſelves with holy reſolutions againſt every ſinful courſe
+wherein we would tremble to appear at the dreadful Judgment ſeat of Chriſt,
+and God, our gracious father will take care of his part to give us di<g ref="char:EOLhyphen"/>vine
+protection and preſerve us to his heavenly Kingdom. What bleſſ<g ref="char:EOLhyphen"/>ed lives
+might Chriſtians live did they walk always as under the eye of an
+Omniſcient God, and with what comfort might they reſign their ſpirits at
+death into his hands, <hi>as of a faithful Creator,</hi> and merciful Redeemer,
+obtaining an abundant entrance into the everlaſting King<g ref="char:EOLhyphen"/>dom of our Lord and
+Saviour Jeſus Chriſt.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59291:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
